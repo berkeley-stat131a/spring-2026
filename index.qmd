@@ -1,0 +1,41 @@
+---
+title: "Statistics 131a: Statistical Methods for Data Science"
+subtitle: "UC Berkeley, Spring 2026"
+listing:
+  - id: schedule
+    template: assets/schedule.ejs
+    contents: schedule.yml
+  - id: buttons
+    template: assets/buttons.ejs
+    contents: buttons.yml
+---
+
+::: {#buttons}
+:::
+
+<!-- [All information on the course website is subject to change before August 28th, 2024.] -->
+
+<!-- ::: {.callout-note title="Welcome to Week 2"} -->
+
+<!-- Things are picking up now. -->
+
+<!-- ::: -->
+
+<!-- [Concept check form](https://docs.google.com/forms/d/e/1FAIpQLScnthLeOwlfNrkCJ69LWgWnmaA-qTNcbtxrHgMmWD4LCZVNug/viewform?usp=sf_link)\ -->
+
+## Announcements 📣
+
+The final exam is Thursday, December 19th at 3pm in GPBB 100.
+
+<!-- Please [complete your STAT 131A course evalulation](https://course-evaluations.berkeley.edu)! -->
+
+<!-- - With just a couple minutes of your time, you can provide incredibly valuable feedback to Van and Josh. -->
+
+## Schedule 📅
+
+<!-- For a style similar to that of [Stat 20](https://stat20.berkeley.edu/fall-2024), modify `index.qmd` to point to `assets/{schedule-alt.ejs,buttons-alt.ejs}` and to `{schedule-alt.yml,buttons-alt.yml}` and `_quarto.yml` to point to `assets/styles-alt.scss`. -->
+
+::: {#schedule}
+:::
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

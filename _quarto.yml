@@ -1,0 +1,56 @@
+project:
+  type: website
+
+website:
+  google-analytics: G-9Q0VSK0VJF
+  site-url: https://stat131a.berkeley.edu/spring-2026/
+  sidebar:
+    style: docked
+    title: "Stat 131a"
+    logo: assets/stat_bear.png
+    tools:
+      - icon: github
+        href: https://github.com/berkeley-stat131a/spring-2026
+    contents:
+      - href: index.qmd
+        text: Home / Schedule
+      - href: assignments.qmd
+        text: HW and Labs
+      - href: project.qmd
+        text: Project
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: staff.qmd
+        text: Staff
+      # - section: "Units"
+      #   contents:
+      #     - units/unit1.qmd
+      #     - units/unit2.ipynb
+      #     - units/unit3.qmd
+      # - href: data.qmd
+      #   text: Datasets
+      # - href: lectures.qmd
+      #   text: Lectures
+      # - href: labs.qmd
+      #   text: Labs
+      # - href: assignments.qmd
+      #   text: Assignments
+      - href: calendar.qmd
+        text: Google Calendar
+      # - href: license.qmd
+      #   text: License
+
+          
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: true
+    include-in-header:
+      file: siteimprove.html
+
+
+include-in-header:
+  - text: |
+     <link rel = "shortcut icon" href = "favicon.ico" />
