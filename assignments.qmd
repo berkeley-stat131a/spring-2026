@@ -5,7 +5,16 @@ editor:
     wrap: sentence
 ---
 
-## 📊 Lab 1 
+
+📊 Lab 1 
+
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
+
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
+
+Due date: Monday, September 9, midnight PT
+
+<!--## 📊 Lab 1 
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
@@ -13,7 +22,7 @@ editor:
 
 Due date: Monday, September 9, midnight PT
 
-## 📊 HW1 
+ ## 📊 HW1 
 
 [HW 1 details](assignment1.html)
 
@@ -158,6 +167,8 @@ Anticipated due date: Sunday, December 15, midnight PT
 ## 🏁 Final exam
 
 Thursday, December 19, 3-6pm \@ GPBB 100 
+
+-->
 
 <!-- In teams of 3 people (no more, no fewer), please complete the [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSeYSFHSlrRKkcjCCo9PAGrtiWoWRQEQHGBsJsosEZfZ9ebocA/viewform?usp=sf_link). -->
 

@@ -43,7 +43,9 @@ MWF 11am-12noon \@ [Weill 101](https://dac.berkeley.edu/navigating-cal/buildings
 ### Labs 🧪
 
 Lab 101: Tuesday and Thursday, 10am-11am \@ [Evans 332](https://www.berkeley.edu/map/evans-hall/)
+
 Lab 102: Tuesday and Thursday, 4-5pm \@ [Evans 330](https://www.berkeley.edu/map/evans-hall/)
+
 - You should only be signed up for one lab section.
 - Lab attendance is optional, but highly encouraged.
 
@@ -206,21 +208,13 @@ We plan to have 12 lab assignments.
 
 Lab assignments are generally due on Mondays at 11:59 pm and should be submitted via [Gradescope](https://www.gradescope.com/courses/1214055).
 
-- Labs are graded on completion, not correctness.
-
-While there is no Week 1 lab, there is a self-paced [Lab 0](assets/Lab00.html) for you to work through independently. This lab is not graded.
-
-- **Before the first lab section on Tuesday of Week 2, work through [Lab 0](assets/Lab00.html).**
-
-- You do not have to turn in this lab, but we will assume that you have worked through this lab and understand the code.
-- If you have questions about this lab, please come to office hours or post on Ed.
-
+- Labs are graded on completion, not accuracy. As long as you have made a serious and convincing attempt at finishing them, you'll get full credit.
 
 ## Late Work ⏰
 
 HW/Labs are due at 11:59pm. However, you can still submit work after midnight until the next C131A lecture time and we'll apply an automated deduction of 15%.
 
-Only exceptions are students with Letters of Accommodations.
+The only exceptions are students with Letters of Accommodations.
 
 <!-- ### Communicating with Instructional Staff -->
 

@@ -1,5 +1,5 @@
 ---
-title: "Final project"
+title: "Final project - THIS INFORMATION IS NOT UP TO DATE FOR SPRING 2026"
 editor: 
   markdown: 
     wrap: sentence

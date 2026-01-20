@@ -21,12 +21,12 @@
             #   href: "#"
     - date: "Thu Jan 22"
       items:
-        - type: "Section"
-          id: "lab0"
-          name: Data munging and plotting with stop-and-frisk
+        - type: "Lab"
+          id: "0"
+          name: Getting started with R (not graded!)
           href: "#"
           auxil:
-            - id: "Lab 1 (DataHub)"
+            - id: "Lab 0 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             # - id: "Lab 1 (HTML)"
             #   href: "labs-html/lab01-exercises.html"
