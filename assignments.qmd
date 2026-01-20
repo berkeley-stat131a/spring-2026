@@ -14,7 +14,7 @@ editor:
 
 [GitHub](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
 
-Due date: Monday, February 2, midnight PT
+Due date: Sunday, February 1, 11:59 PST
 
  ## 📊 HW1 
 
