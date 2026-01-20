@@ -9,10 +9,10 @@ The teaching staff is excited to have you in 131A!
 ::: {.grid}
 
 ::: {.g-col-4}
-<img src="assets/josh-headshot.jpg" width="200"><br>
-**Instructor:** <a href="https://jdgrossman.com" target='_blank'>Josh Grossman</a><br>
-*Please call me "Josh"! No need for "Professor", "Dr.", "Sir", etc.* <br>
-`jdgg at berkeley dot edu`<br>
+<img src="assets/andrea-headshot.jpg" width="200"><br>
+**Instructor:** <a href="https://statistics.berkeley.edu/people/andrea-massari" target='_blank'>Andrea Massari</a><br>
+*You can call me Andrea or anything you're comfortable with. Also, send memes.* <br>
+`amassari at berkeley dot edu`<br>
 <!-- Office hours: <br> -->
 <!-- TBD -->
 <!-- - Thursday 3pm-5pm, Evans 309 <br> -->
@@ -23,6 +23,18 @@ The teaching staff is excited to have you in 131A!
 <img src="assets/van-headshot.jpg" width="200"><br>
 **GSI**: <a href="https://statistics.berkeley.edu/people/van-hovenga" target="_blank">Van Hovenga</a><br>
 `vhovenga at berkeley dot edu`<br>
+<!-- Office hours:<br> -->
+<!-- TBD -->
+<!-- - Monday 11am-12pm, Evans 432<br> -->
+<!-- - Tuesday 4pm-5pm, Evans 432<br> -->
+<!-- - Wednesday 2pm-3pm, Evans 432<br> -->
+<!-- - Friday 12pm-1pm, Evans 432 -->
+:::
+
+::: {.g-col-4}
+<img src="assets/monica-headshot.jpg" width="200"><br>
+**Reader**: <a href="" target="_blank">Monica Tsai</a><br>
+`at berkeley dot edu`<br>
 <!-- Office hours:<br> -->
 <!-- TBD -->
 <!-- - Monday 11am-12pm, Evans 432<br> -->
