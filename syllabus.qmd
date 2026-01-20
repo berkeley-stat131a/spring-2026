@@ -112,18 +112,22 @@ Grades are calculated as follows:
 -   Homework: 20% (1 drop)
 -   Final project: 20%
 -   Exams: 40% 
-    - 20% greatest(final_part_1, 50% * midterm + 50% * final_part_1)
-    - 20% final_part_2
+    - 20%: larger of (final_part_1, 50% * midterm + 50% * final_part_1)
+    - 20%: final_part_2
 
-The final will be broken down into two parts: 
+The **final** will be broken down into two parts: 
+
 - one (final_part_1) that covers the same material as the midterm and will be averaged out with the score on the midterm, unless you did better on the final, in which case you'll just get the score of the final_part_1. This is so if you fail the midterm, you get a fresh chance to redeem yourself on the final.
+
 - the other (final_part_2) that covers material after the midterm
 
-- Drops of lowest scores are automated. You do not need to get in touch about them.
+**Drops** of lowest scores are automated. You do not need to get in touch about them.
 
-- To pass the class (with a C- or P) you need to score at least 66% overall.
+To **pass** the class (with a C- or P) you need to score at least 66% overall.
 
-- **Grades will not be curved.** - In other words, there is no limit to the proportion of students with an A, B, etc. **You are incentivized to help each other learn. This is not the place for competition.**
+**Grades will not be curved.** 
+
+- In other words, there is no limit to the proportion of students with an A, B, etc. **You are incentivized to help each other learn. This is not the place for competition.**
 - However, grade cutoffs may be slightly adjusted at the end of the semester, in case exam/assignments difficulty is not calibrated perfectly.
 
 
@@ -157,7 +161,7 @@ We will use in-class concept checks and neighbor discussions to track attendance
 
 - Concept checks are not graded.
 - Concept checks are answered via [this form]
-# (https://docs.google.com/forms/d/e/1FAIpQLScnthLeOwlfNrkCJ69LWgWnmaA-qTNcbtxrHgMmWD4LCZVNug/viewform?usp=sf_link).
+<!-- (https://docs.google.com/forms/d/e/1FAIpQLScnthLeOwlfNrkCJ69LWgWnmaA-qTNcbtxrHgMmWD4LCZVNug/viewform?usp=sf_link). -->
 <!-- - However, when deciding borderline final grades, we may consider demonstrated effort on concept checks. -->
 - Submitting a concept check outside of standard lecture time is considered cheating and an honor code violation. We will use your seat number and submission time to validate that your responses were entered during lecture time. We reserve the right to photograph the lecture hall to verify attendance. 
 
@@ -166,7 +170,7 @@ We will use in-class concept checks and neighbor discussions to track attendance
 In addition to concept checks, there may be one or more neighbor discussions during each lecture.
 
 - Neighbor discussion answers are submitted via [this form]
-# (https://docs.google.com/forms/d/e/1FAIpQLSc8XcctXgOv9kyJEdEL0JZtUMnhc5KWVEh1ifDL4qO6xB93Vg/viewform?usp=sf_link).
+<!--  (https://docs.google.com/forms/d/e/1FAIpQLSc8XcctXgOv9kyJEdEL0JZtUMnhc5KWVEh1ifDL4qO6xB93Vg/viewform?usp=sf_link).-->
 - Neighbor discussion answers are not graded.
 
 ## Homework 📝
