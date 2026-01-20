@@ -1,6 +1,6 @@
 - week: 1
   days:
-    - date: "Wed Aug 28"
+    - date: "Wed Jan 21"
       items:
         - type: "Lecture"
           id: "1"
@@ -19,7 +19,18 @@
             #   href: "#"
             # - id: "Lecture code (TBD)"
             #   href: "#"
-    - date: "Fri Aug 30"
+    - date: "Thu Jan 22"
+      items:
+        - type: "Section"
+          id: "lab0"
+          name: Data munging and plotting with stop-and-frisk
+          href: "#"
+          auxil:
+            - id: "Lab 1 (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+            # - id: "Lab 1 (HTML)"
+            #   href: "labs-html/lab01-exercises.html"
+    - date: "Fri Jan 23"
       items:
         - type: "Lecture"
           id: "2"
@@ -40,11 +51,11 @@
             #   href: "#"
 - week: 2
   days:
-    - date: "Mon Sep 2"
+    - date: "Mon Jan 26"
       items:
         - type: "Holiday"
           id: " (Labor Day)"
-    - date: "Tue Sep 3"
+    - date: "Tue Jan 27"
       items:
         - type: "Section"
           id: "1"
@@ -55,7 +66,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             # - id: "Lab 1 (HTML)"
             #   href: "labs-html/lab01-exercises.html"
-    - date: "Wed Sep 4"
+    - date: "Wed Jan 28"
       items:
         - type: "Lecture"
           id: "3"
@@ -76,7 +87,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Thu Sep 5"
+    - date: "Thu Jan 29"
       items:
         - type: "Section"
           id: "2"
@@ -89,8 +100,7 @@
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
             # - id: "Lab 1 (HTML)"
             #   href: "labs-html/lab01-exercises.html"
-            
-    - date: "Fri Sep 6"
+    - date: "Fri Jan 30"
       items:
         - type: "Lecture"
           id: "4"
@@ -114,7 +124,7 @@
       
 - week: 3
   days:
-    - date: "Mon Sep 9"
+    - date: "Mon Feb 2"
       items:
         - type: "Lecture"
           id: "5"
@@ -133,7 +143,7 @@
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
             - id: "Lecture code (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
-    - date: "Tue Sep 10"
+    - date: "Tue Feb 3"
       items:
         - type: "Section"
           id: "3"
@@ -144,7 +154,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 2 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Sep 11"
+    - date: "Wed Feb 4"
       items:
         - type: "Lecture"
           id: "6a"
@@ -163,13 +173,13 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Thu Sep 12"
+    - date: "Thu Feb 5"
       items:
         - type: "Section"
           id: "4"
           name: Conceptual review of probability
           href: "#"
-    - date: "Fri Sep 13"
+    - date: "Fri Feb 6"
       items:
         - type: "Lecture"
           id: "6b"
@@ -191,7 +201,7 @@
 
 - week: 4
   days:
-    - date: "Mon Sep 16"
+    - date: "Mon Feb 9"
       items:
         - type: "Lecture"
           id: "7"
@@ -210,13 +220,13 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Tue Sep 17"
+    - date: "Tue Feb 10"
       items:
         - type: "Section"
           id: "5"
           name: Wrap up probability exercise and Lab 2
           href: "#"
-    - date: "Wed Sep 18"
+    - date: "Wed Feb 11"
       items:
         - type: "Lecture"
           id: "8a"
@@ -239,7 +249,7 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Thu Sep 19"
+    - date: "Thu Feb 12"
       items:
         - type: "Section"
           id: "6"
@@ -250,7 +260,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 3 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Fri Sep 20"
+    - date: "Fri Feb 13"
       items:
         - type: "Lecture"
           id: "8b"
@@ -272,7 +282,7 @@
 
 - week: 5
   days:
-    - date: "Mon Sep 23"
+    - date: "Mon Feb 16"
       items:
         - type: "Lecture"
           id: "9"
@@ -294,9 +304,8 @@
             # - id: "Lecture code (HTML)"
             #   href: "#"
             # - id: "Lecture code (DataHub)"
-            #   href: "#"
-          
-    - date: "Tue Sep 24"
+            #   href: "#"     
+    - date: "Tue Feb 17"
       items:
         - type: "Section"
           id: "7"
@@ -307,7 +316,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 4, Part A (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Sep 25"
+    - date: "Wed Feb 18"
       items:
         - type: "Lecture"
           id: "10a"
@@ -326,7 +335,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Thu Sep 26"
+    - date: "Thu Feb 19"
       items:
         - type: "Section"
           id: "8"
@@ -337,7 +346,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 4, Part B (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Fri Sep 27"
+    - date: "Fri Feb 20"
       items:
         - type: "Lecture"
           id: "10b"
@@ -363,7 +372,7 @@
 
 - week: 6
   days:
-    - date: "Mon Sep 30"
+    - date: "Mon Feb 23"
       items:
         - type: "Lecture"
           id: "11a"
@@ -382,7 +391,7 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Tue Oct 1"
+    - date: "Tue Feb 24"
       items:
         - type: "Section"
           id: "9"
@@ -393,7 +402,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 5 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Oct 2"
+    - date: "Wed Feb 25"
       items:
         - type: "Lecture"
           id: "11b"
@@ -412,7 +421,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"  
-    - date: "Thu Oct 3"
+    - date: "Thu Feb 26"
       items:
         - type: "Section"
           id: "10"
@@ -423,7 +432,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 5 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Fri Oct 4"
+    - date: "Fri Feb 27"
       items:
         - type: "Lecture"
           id: "12a"
@@ -445,7 +454,7 @@
 
 - week: 7
   days:
-    - date: "Mon Oct 7"
+    - date: "Mon Mar 2"
       items:
         - type: "Lecture"
           id: "MT1P"
@@ -464,13 +473,13 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Tue Oct 8"
+    - date: "Tue Mar 3"
       items:
         - type: "Section"
           id: "11"
           name: Midterm 1 Prep Section
           href: "#"
-    - date: "Wed Oct 9"
+    - date: "Wed Mar 4"
       items:
         - type: "Lecture"
           id: "MT1"
@@ -489,13 +498,13 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Thu Oct 10"
+    - date: "Thu Mar 5"
       items:
         - type: "Section"
           id: "NA"
           name: Relax after midterm! No section.
           href: "#"
-    - date: "Fri Oct 11"
+    - date: "Fri Mar 6"
       items:
         - type: "Lecture"
           id: "12b"
@@ -517,7 +526,7 @@
 
 - week: 8
   days:
-    - date: "Mon Oct 14"
+    - date: "Mon Mar 9"
       items:
         - type: "Lecture"
           id: "13"
@@ -536,7 +545,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Tue Oct 15"
+    - date: "Tue Mar 10"
       items:
         - type: "Section"
           id: "13"
@@ -547,7 +556,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 6 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Oct 16"
+    - date: "Wed Mar 11"
       items:
         - type: "Lecture"
           id: "14"
@@ -566,7 +575,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Thu Oct 17"
+    - date: "Thu Mar 12"
       items:
         - type: "Section"
           id: "14"
@@ -577,7 +586,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 6 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Fri Oct 18"
+    - date: "Fri Mar 13"
       items:
         - type: "Lecture"
           id: "15"
@@ -599,7 +608,7 @@
 
 - week: 9
   days:
-    - date: "Mon Oct 21"
+    - date: "Mon Mar 23"
       items:
         - type: "Lecture"
           id: "16a"
@@ -618,7 +627,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Tue Oct 22"
+    - date: "Tue Mar 24"
       items:
         - type: "Section"
           id: "15"
@@ -629,7 +638,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 7, Part A (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Oct 23"
+    - date: "Wed Mar 25"
       items:
         - type: "Lecture"
           id: "16b"
@@ -648,13 +657,13 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Thu Oct 24"
+    - date: "Thu Mar 26"
       items:
         - type: "Section"
           id: "16"
           name: Wrap up Lab 7, Review polynomial terms + categorical covariates
           href: "#"
-    - date: "Fri Oct 25"
+    - date: "Fri Mar 27"
       items:
         - type: "Lecture"
           id: "16c"
@@ -676,7 +685,7 @@
 
 - week: 10
   days:
-    - date: "Mon Oct 28"
+    - date: "Mon Mar 30"
       items:
         - type: "Lecture"
           id: "17"
@@ -695,7 +704,7 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Tue Oct 29"
+    - date: "Tue Mar 31"
       items:
         - type: "Section"
           id: "17"
@@ -706,7 +715,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 8 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Oct 30"
+    - date: "Wed Apr 1"
       items:
         - type: "Lecture"
           id: "18"
@@ -725,13 +734,13 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Thu Oct 31"
+    - date: "Thu Apr 2"
       items:
         - type: "Section"
           id: "18"
           name: Review of regression and HW4 Help
           href: "#"
-    - date: "Fri Nov 1"
+    - date: "Fri Apr 3"
       items:
         - type: "Lecture"
           id: "NA"
@@ -755,7 +764,7 @@
 
 - week: 11
   days:
-    - date: "Mon Nov 4"
+    - date: "Mon Apr 6"
       items:
         - type: "Lecture"
           id: "19a"
@@ -774,7 +783,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Tue Nov 5"
+    - date: "Tue Apr 7"
       items:
         - type: "Section"
           id: "19"
@@ -785,7 +794,7 @@
             href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
           - id: "Lab 9 (GitHub)"
             href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Nov 6"
+    - date: "Wed Apr 8"
       items:
         - type: "Lecture"
           id: "19b"
@@ -804,13 +813,13 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Thu Nov 7"
+    - date: "Thu Apr 9"
       items:
         - type: "Section"
           id: "20"
           name: Midterm 2 Review
           href: "#"
-    - date: "Fri Nov 8"
+    - date: "Fri Apr 10"
       items:
         - type: "Lecture"
           id: "MT2P"
@@ -832,11 +841,11 @@
 
 - week: 12
   days:
-    - date: "Mon Nov 11"
+    - date: "Mon Apr 13"
       items:
         - type: "Holiday"
           id: " (Veterans Day)"
-    - date: "Tue Nov 12"
+    - date: "Tue Apr 14"
       items:
         - type: "Section"
           id: "21"
@@ -847,7 +856,7 @@
               href: "https://drive.google.com/file/d/1_kOiY9wE_Yxa2RT6EgV8Sys6ktIykMn2/view?usp=sharing"
             - id: "Worksheet"
               href: "https://drive.google.com/file/d/1OOcewLiihzQzAl5laWgFIDaZvIa62yr4/view?usp=sharing"
-    - date: "Wed Nov 13"
+    - date: "Wed Apr 15"
       items:
         - type: "Lecture"
           id: "MT2"
@@ -856,13 +865,13 @@
           auxil:
             - id: "Seating map"
               href: "https://docs.google.com/presentation/d/1CAYnNt1MAPEZxiYvfk6oqAkog1u23EqXZ52Nkqj7eMQ/edit?usp=sharing"
-    - date: "Thu Nov 14"
+    - date: "Thu Apr 16"
       items:
         - type: "Section"
           id: "NA"
           name: Relax after midterm! No section.
           href: "#"
-    - date: "Fri Nov 15"
+    - date: "Fri Apr 17"
       items:
         - type: "Lecture"
           id: "20a"
@@ -884,7 +893,7 @@
 
 - week: 13
   days:
-    - date: "Mon Nov 18"
+    - date: "Mon Apr 20"
       items:
         - type: "Lecture"
           id: "20b"
@@ -903,7 +912,7 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Tue Nov 19"
+    - date: "Tue Apr 21"
       items:
         - type: "Section"
           id: "23"
@@ -914,7 +923,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 10 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Nov 20"
+    - date: "Wed Apr 22"
       items:
         - type: "Lecture"
           id: "21"
@@ -933,13 +942,13 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
           #   href: "#"
-    - date: "Thu Nov 21"
+    - date: "Thu Apr 23"
       items:
         - type: "Section"
           id: "24"
           name: Logistic regression and classification error metrics
           href: "#"
-    - date: "Fri Nov 22"
+    - date: "Fri Apr 24"
       items:
         - type: "Lecture"
           id: "22"
@@ -961,7 +970,7 @@
 
 - week: 14
   days:
-    - date: "Mon Nov 25"
+    - date: "Mon Apr 27"
       items:
         - type: "Lecture"
           id: "23a"
@@ -980,28 +989,28 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Tue Nov 26"
+    - date: "Tue Apr 28"
       items:
         - type: "Section"
           id: "NA"
           name: No section today!
           href: "#"
-    - date: "Wed Nov 27"
+    - date: "Wed Apr 29"
       items:
         - type: "Holiday"
           id: " (Thanksgiving Break)"
-    - date: "Thu Nov 28"
+    - date: "Thu Apr 30"
       items:
         - type: "Holiday"
           id: " (Thanksgiving Break)"
-    - date: "Fri Nov 29"
+    - date: "Fri May 1"
       items:
         - type: "Holiday"
           id: " (Thanksgiving Break)"
 
 - week: 15
   days:
-    - date: "Mon Dec 2"
+    - date: "Mon May 4"
       items:
         - type: "Lecture"
           id: "23b"
@@ -1020,7 +1029,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
             - id: "Lecture code (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-    - date: "Tue Dec 3"
+    - date: "Tue May 5"
       items:
         - type: "Section"
           id: "25"
@@ -1031,7 +1040,7 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
             - id: "Lab 11 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-    - date: "Wed Dec 4"
+    - date: "Wed May 6"
       items:
         - type: "Lecture"
           id: "24a"
@@ -1050,13 +1059,13 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-    - date: "Thu Dec 5"
+    - date: "Thu May 7"
       items:
         - type: "Section"
           id: "26"
           name: Wrap up k-means and PCA. If time, decision trees.
           href: "#"
-    - date: "Fri Dec 6"
+    - date: "Fri May 8"
       items:
         - type: "Lecture"
           id: "24b"
@@ -1078,7 +1087,7 @@
 
 - week: 16
   days:
-    - date: "Mon Dec 9"
+    - date: "Mon May 11"
       items:
         - type: "Lecture"
           id: "FP1"
@@ -1091,7 +1100,33 @@
               href: "https://drive.google.com/file/d/1tOkLgrxuQe2PzKMICfPWlw3qdKRaqi1s/view?usp=sharing"
             - id: "Practice problems on bcourses"
               href: "#"
-    - date: "Wed Dec 11"
+    - date: "Tue May 12"
+      items:
+        - type: "Final Exam"
+          id: "fnl"
+          name: Final 7-10 pm location TDB
+          href: "#"
+          auxil:
+            # - id: "Slides"
+            #   href: "https://docs.google.com/presentation/d/14asmNnpJeY7XPaw1vJeQhWXMlOivoksWZXEZ_zCCXB4/edit?usp=sharing"
+            # - id: "Annotated slides"
+            #   href: "#"
+            # - id: "Practice problems on bcourses"
+            #   href: "#"
+    - date: "Wed May 13"
+      items:
+        - type: "Lecture"
+          id: "FP1"
+          name: Final prep lecture 1
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/14asmNnpJeY7XPaw1vJeQhWXMlOivoksWZXEZ_zCCXB4/edit?usp=sharing"
+            - id: "Annotated slides"
+              href: "https://drive.google.com/file/d/1tOkLgrxuQe2PzKMICfPWlw3qdKRaqi1s/view?usp=sharing"
+            - id: "Practice problems on bcourses"
+              href: "#"
+    - date: "Thu May 14"
       items:
         - type: "Lecture"
           id: "FP2"
@@ -1104,7 +1139,7 @@
             #   href: "#"
             - id: "Practice problems on bcourses"
               href: "#"
-    - date: "Fri Dec 13"
+    - date: "Fri May 15"
       items:
         - type: "Lecture"
           id: "FP3"
@@ -1117,4 +1152,3 @@
             #   href: "#"
             - id: "Practice problems on bcourses"
               href: "#"
-    
