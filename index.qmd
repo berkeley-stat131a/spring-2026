@@ -1,5 +1,5 @@
 ---
-title: "Statistics 131a: Statistical Methods for Data Science"
+title: "Statistics C131A: Statistical Methods for Data Science"
 subtitle: "UC Berkeley, Spring 2026"
 listing:
   - id: schedule
@@ -25,11 +25,11 @@ listing:
 
 ## Announcements 📣
 
-The final exam is Thursday, December 19th at 3pm in GPBB 100.
+<!-- The final exam is Thursday, December 19th at 3pm in GPBB 100. -->
 
 <!-- Please [complete your STAT 131A course evalulation](https://course-evaluations.berkeley.edu)! -->
 
-- With just a couple minutes of your time, you can provide incredibly valuable feedback to Van and Josh.
+<!-- - With just a couple minutes of your time, you can provide incredibly valuable feedback to Van and Josh. -->
 
 ## Schedule 📅
 
