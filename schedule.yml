@@ -22,14 +22,14 @@
     - date: "Thu Jan 22"
       items:
         - type: "Lab"
-          id: "0"
+          id: "10"
           name: Getting started with R (not graded!)
           href: "#"
           auxil:
-            - id: "Lab 0 (DataHub)"
-              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
-            # - id: "Lab 1 (HTML)"
-            #   href: "labs-html/lab01-exercises.html"
+            - id: "Lab 0 (HTML w/ DataHub Link)"
+              href: "https://stat131a.berkeley.edu/fall-2026/assets/Lab00.html"
+            # - id: "Lecture code (TBD)"
+            #   href: "#"
     - date: "Fri Jan 23"
       items:
         - type: "Lecture"
@@ -45,10 +45,7 @@
               href: "https://docs.google.com/presentation/d/1gdfMxOEYk8cHH1syIrz_YqDb1EEGLOwLkuQpRHNEAFg/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
             #   href: "https://docs.google.com/presentation/d/1unEenGdjaZG9_82IdQzkpxEIbIktUL9i_dUqwH6O4Gg/edit?usp=sharing"
-            - id: "Lab 0 (HTML w/ DataHub Link)"
-              href: "https://stat131a.berkeley.edu/fall-2024/assets/Lab00.html"
-            # - id: "Lecture code (TBD)"
-            #   href: "#"
+
 
 # - week: 2
 #   days:
