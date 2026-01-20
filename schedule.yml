@@ -285,7 +285,7 @@
   days:
     - date: "Mon Feb 16"
       items:
-        - type: "Lecture"
+        - type: "PRESIDENT'S DAY Lecture"
           id: "9"
           name: The bootstrap
           href: "#"
@@ -611,7 +611,7 @@
   days:
     - date: "Mon Mar 23"
       items:
-        - type: "Lecture"
+        - type: "SPRING BREAK Lecture"
           id: "16a"
           name: Polynomial terms
           href: "#"
@@ -630,7 +630,7 @@
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
     - date: "Tue Mar 24"
       items:
-        - type: "Section"
+        - type: "SPRING BREAK Section"
           id: "15"
           name: Fitting linear regression (OLS) models
           href: "#"
@@ -641,7 +641,7 @@
               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
     - date: "Wed Mar 25"
       items:
-        - type: "Lecture"
+        - type: "SPRING BREAK Lecture"
           id: "16b"
           name: Categorical covariates 
           href: "#"
@@ -660,13 +660,13 @@
               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
     - date: "Thu Mar 26"
       items:
-        - type: "Section"
+        - type: "SPRING BREAK Section"
           id: "16"
           name: Wrap up Lab 7, Review polynomial terms + categorical covariates
           href: "#"
     - date: "Fri Mar 27"
       items:
-        - type: "Lecture"
+        - type: "SPRING BREAK Lecture"
           id: "16c"
           name: Interactions
           href: "#"
