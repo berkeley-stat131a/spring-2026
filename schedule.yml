@@ -8,11 +8,11 @@
           href: "#"
           auxil:
             - id: "Slides"
-              href: "https://docs.google.com/presentation/d/1E5kHtRuCvKPZ5EqzZY1Pu20bZq-QzHiSVwUtYo42IFQ/edit?usp=sharing"
+              href: "https://docs.google.com/presentation/d/1_G3i01GzLd5BO3borfXKRsqBVSo8bphg0ELYn0b3P0I/edit?usp=sharing"
             # - id: "Annotated slides (TBD)"
             #   href: "#"
             - id: "Worksheet"
-              href: "https://docs.google.com/presentation/d/1Dv6JYttK1Yh4xXO8X_QClVpEZVr7zt_doZlw3JDgIIs/edit?usp=sharing"
+              href: "https://docs.google.com/presentation/d/1eddJ5Z6FanB3FNCJl_yU55benTgjL426/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
             #   href: "https://docs.google.com/presentation/d/1EM56MC2dL0rwWN3zd3HMUbMnkO-r0u5ZLPGlq7lILV8/edit?usp=sharing"
             # - id: "Demo (TBD)"
@@ -21,8 +21,8 @@
             #   href: "#"
     - date: "Thu Jan 22"
       items:
-        - type: "Lab"
-          id: "10"
+        - type: "LabSection"
+          id: "1"
           name: Getting started with R (not graded!)
           href: "#"
           auxil:
@@ -38,11 +38,11 @@
           href: "#"
           auxil:
             - id: "Slides"
-              href: "https://docs.google.com/presentation/d/1knKWf8v94mOV03HR1FQSwFbj6yZz-vy_zCHTDhQSc7A/edit?usp=sharing"
+              href: #"https://docs.google.com/presentation/d/1y85WB0JvmNEWQZjlPyaTtJsKr0YWqkkAcLxVFdnLjb0/edit?usp=sharing"
             # - id: "Annotated slides (TBD)"
             #   href: "#"
             - id: "Worksheet"
-              href: "https://docs.google.com/presentation/d/1gdfMxOEYk8cHH1syIrz_YqDb1EEGLOwLkuQpRHNEAFg/edit?usp=sharing"
+              href: #"https://docs.google.com/presentation/d/1gdfMxOEYk8cHH1syIrz_YqDb1EEGLOwLkuQpRHNEAFg/edit?usp=sharing"
             # - id: "Abridged slides for live notes"
             #   href: "https://docs.google.com/presentation/d/1unEenGdjaZG9_82IdQzkpxEIbIktUL9i_dUqwH6O4Gg/edit?usp=sharing"
 
