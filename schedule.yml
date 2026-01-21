@@ -21,7 +21,7 @@
             #   href: "#"
     - date: "Thu Jan 22"
       items:
-        - type: "LabSection"
+        - type: "Section"
           id: "1"
           name: Getting started with R (not graded!)
           href: "#"
