@@ -78,8 +78,8 @@
           auxil:
             - id: "Lab 1 (DataHub)"
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F"
-             # - id: "Lab 1 (HTML)"
-             #   href: "labs-html/lab01-exercises.html"
+            - id: "Lab 1 (HTML)"
+              href: "labs-html/lab01-exercises.html"
 #     - date: "Thu Jan 29"
 #       items:
 #         - type: "Section"
