@@ -52,7 +52,7 @@
       items:
         - type: "Lecture"
           id: "3"
-          name: Boxplots and Histograms
+          name: Boxplots
           href: "#"
           auxil:
             - id: "Slides"
@@ -80,19 +80,40 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F"
             - id: "Lab 1 (HTML)"
               href: "labs-html/lab01-exercises.html"
-#     - date: "Thu Jan 29"
-#       items:
-#         - type: "Section"
-#           id: "2"
-#           name: Data munging and plotting with stop-and-frisk
-#           href: "#"
-#           auxil:
-#             - id: "Lab 1 (DataHub)"
-#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
-#             - id: "Lab 1 (GitHub)"
-#               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-#             # - id: "Lab 1 (HTML)"
-#             #   href: "labs-html/lab01-exercises.html"
+    - date: "Wed Jan 28"
+      items:
+        - type: "Lecture"
+          id: "4"
+          name: Histograms
+          href: "#"
+          auxil:
+            - id: "Slides (finishing up previous ones)"
+              #href:
+             # - id: "Annotated slides"
+             #   href: "#"
+            #- id: "Worksheet"
+              #href: #"https://docs.google.com/presentation/d/1ZYPptIm2kiwW1Y_TX5pLF5hzV6_6QewaHQQrHovh6EI/edit?usp=sharing"
+             # - id: "Abridged slides for live notes"
+             #   href: "https://docs.google.com/presentation/d/1rohKclAyb46mwVvBTtosSV2DOfAZI9U51dUDiZze-sI/edit?usp=sharing"
+             # - id: "Lecture code (HTML)"
+             #   href: "lecture-code/boxplot-freq-hist-lecture-code.html"
+            #- id: "Lecture code (DataHub)"
+            #  href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+            #- id: "Lecture code (GitHub)"
+            #  href: "https://github.com/berkeley-stat131a/131a-lecture-code"
+    - date: "Thu Jan 29"
+      items:
+        - type: "Section"
+          id: "3"
+          name: Data munging and plotting with stop-and-frisk (continued)
+          href: "#"
+          #auxil:
+          #  - id: "Lab 1 (DataHub)"
+          #    href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+          #  - id: "Lab 1 (GitHub)"
+          #    href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
+             # - id: "Lab 1 (HTML)"
+             #   href: "labs-html/lab01-exercises.html"
 #     - date: "Fri Jan 30"
 #       items:
 #         - type: "Lecture"
