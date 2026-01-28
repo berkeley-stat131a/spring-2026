@@ -9,13 +9,13 @@ editor:
 
 **N.B. Syllabus subject to change.**
 
-**Students in Stat 131A are expected to have read the syllabus in its entirety by the second week of the course.**
+**Students in Stat C131A are expected to have read the syllabus in its entirety by the second week of the course.**
 
 ## Course Details 🥗
 
 ### Description 🔎
 
-Stat 131A is an upper-division course that follows Data 8 or STAT 20.
+Stat C131A is an upper-division course that follows Data 8 or STAT 20.
 The course will teach a range of statistical methods that are used to solve data problems, including standard parametric statistical models, multiple linear regression and classification, and possibly Bayesian methods, sampling methods, and more advanced Machine Learning models.
 We will use the `R` statistical language, and will obtain hands-on experience in implementing a range of statistical methods on numerous real world datasets.
 
@@ -264,11 +264,11 @@ The final exam will take place **Tuesday May 12, 7-10pm** (scheduled by the regi
 
 ## Textbooks and resources 📖
 
-Everything you need to know for Stat 131a will be covered in lectures, labs, and assignments.
+Everything you need to know for Stat C131A will be covered in lectures, labs, and assignments.
 
-- It is possible to do very well in Stat 131a without ever referring to an outside textbook or resource.
+- It is possible to do very well in Stat C131A without ever referring to an outside textbook or resource.
 
-However, most of the course material is covered by the online textbook developed specifically for 131A.
+However, most of the course material is covered by the online textbook developed specifically for C131A.
 
 - You can find the textbook [here](https://epurdom.github.io/Stat131A/book/).
 
@@ -283,7 +283,7 @@ If you would like some additional optional reading, you can try the following bo
 -   *The Statistical Sleuth: A Course in Methods of Data Analysis* by Ramsey and Schafer
 -   *Introductory Statistics with R* by Peter Dalgaard
 
-None of these books covers all of the topics we will cover in 131A, nor do they necessarily have the same perspective and focus as this class.
+None of these books covers all of the topics we will cover in C131A, nor do they necessarily have the same perspective and focus as this class.
 <!-- -- they do not have extensive use of bootstrapping and resampling methods. -->
 But for those students wanting some additional structure or R assistance, these books may be helpful and should be at the right level for this class.
 
