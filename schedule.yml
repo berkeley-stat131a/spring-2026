@@ -114,15 +114,15 @@
           #    href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
              # - id: "Lab 1 (HTML)"
              #   href: "labs-html/lab01-exercises.html"
-#     - date: "Fri Jan 30"
-#       items:
-#         - type: "Lecture"
-#           id: "4"
-#           name: Distributions of Data
-#           href: "#"
-#           auxil:
-#             - id: "Slides"
-#               href: "https://docs.google.com/presentation/d/1wBoMAOaq_WZ4N56vlyglohNEGDEG6AL0x_aLJr49c8s/edit?usp=sharing"
+    - date: "Fri Jan 30"
+      items:
+        - type: "Lecture"
+          id: "4"
+          name: Finish plotting plus Intro to distributions.
+          href: "#"
+          auxil:
+            - id: "No Slides"
+              #href: "https://docs.google.com/presentation/d/1wBoMAOaq_WZ4N56vlyglohNEGDEG6AL0x_aLJr49c8s/edit?usp=sharing"
 #             # - id: "Annotated slides"
 #             #   href: "#"
 #             - id: "Worksheet"
