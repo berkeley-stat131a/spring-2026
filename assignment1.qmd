@@ -14,33 +14,23 @@ Due date: **Friday, September 13 at midnight**.
 
 -   This is not an assignment to start the night before the due date!
 
--   The assignment covers material all the way up to the Wednesday 9/11 lecture before the HW is due, so be sure to start working on problems as soon as you learn the requisite material.
+Unless otherwise stated, assignments in STAT C131A are to be done individually.
 
-Unless otherwise stated, assignments in STAT 131A are to be done individually.
-
--   As stated in the syllabus, the use of any LLM other than PingPong is considered cheating, unless otherwise indicated.
+-   As stated in the syllabus, the use of any LLM is considered cheating, unless otherwise indicated.
 
 -   See the syllabus for the full course collaboration policy.
 
-Some components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups.
+Some components of this assignment have not been seen by a previous cohort of STAT C131A students, so there may be some unforeseen hiccups.
 
 -   If anything seems confusing or unclear, please create an Ed post. We are here to support you!
 
-**We will use [this Ed post](https://edstem.org/us/courses/63606/discussion/5169673) to track errors and clarifications on HW1.**
+<!--**We will use [this Ed post](https://edstem.org/us/courses/63606/discussion/5169673) to track errors and clarifications on HW1.** -->
 
 ## 📮 Submission
 
-Submit your assignment via [Gradescope](https://www.gradescope.com/courses/833089). The Gradescope will be live at least a few days before the HW deadline.
+Submit your assignment via [Gradescope](https://www.gradescope.com/courses/1214055). The Gradescope will be live at least a few days before the HW deadline.
 
--   Make sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.
-
-**You must submit a PDF of any PingPong chats that include code you used in your submission.**
-
-- This should take the form of one long PDF. One way to do this is to copy
-all of your relevant PingPong chats into a Google Doc, and then print the doc
-as a PDF.
-
-- You are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.
+- Make sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.
 
 **For coding components, you will produce both (1) a .Rmd file with your code and (2) an HTML file containing the code and output.**
 
@@ -51,7 +41,7 @@ as a PDF.
 
 **For the plot presentation, there are two submission steps.**
 
--   **First**, submit a **public** link to your screencast via Gradescope. We will dock points and/or dock slip days if the link is not publicly accessible during grading. Test your link in an incognito window to ensure it's public.
+-   **First**, submit a **public** link to your screencast via Gradescope. We will dock points if the link is not publicly accessible during grading. Test your link in an incognito window to ensure it's public.
 -   **Second**, submit the same public link to your screencast using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ_eta2j21ClJrHl33JLig4f4gzDYeZOYdKVkobD3X2k1OWg/viewform?usp=sf_link). This second step prepares us for HW2, when another student will provide anonymous feedback on your screencast.
 
 **For math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.**
@@ -65,7 +55,7 @@ as a PDF.
 
 Complete the [new student survey](https://docs.google.com/forms/d/e/1FAIpQLSeLyja2XcDNM0oykU5Y4UxALdPqDuZwy2-4Y5z57im3iBvl9Q/viewform?usp=sf_link).
 
-Complete the [office hour survey](https://docs.google.com/forms/d/e/1FAIpQLSeK4R_VWUis_MRHIvS_jEDNOIERRjnuCjYQTWJVMa64fQI7XQ/viewform?usp=sf_link).
+<!--Complete the [office hour survey](https://docs.google.com/forms/d/e/1FAIpQLSeK4R_VWUis_MRHIvS_jEDNOIERRjnuCjYQTWJVMa64fQI7XQ/viewform?usp=sf_link). -->
 
 ## 📈 Data manipulation and plotting with `R` (50% of the HW1 grade)
 
@@ -106,9 +96,9 @@ As part of HW2, you will provide anonymous feedback on another student's submiss
 
 -   You will submit a public link to your screencast in two places. See submission details at the top of this page.
 -   Before submitting, make sure your screencast is publicly accessible with the link. One easy way to do this: Open the link in an incognito window in Google Chrome.
--   If your video is private or unviewable when we try to access it, we will not be able to confirm that you submitted your video before the HW1 deadline. You may lose points and/or have to use slip day(s).
+-   If your video is private or unviewable when we try to access it, we will not be able to confirm that you submitted your video before the HW1 deadline. You may lose points.
 
-**Why complete this problem?** Communication is a critical, but often under-appreciated, component of the data science life cycle.
+**Why complete this problem?** Communication is a critical, but often under-appreciated, component of data science.
 This exercise helps develop your data storytelling ability, which is essential for getting anyone to actually care about your statistical analyses!
 
 ## 🔔 Working with probability density functions (PDFs) (20%)
