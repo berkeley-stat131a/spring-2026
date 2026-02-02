@@ -117,7 +117,7 @@
     - date: "Fri Jan 30"
       items:
         - type: "Lecture"
-          id: "4"
+          id: "5"
           name: Finish plotting plus Intro to distributions.
           href: "#"
           auxil:
@@ -209,7 +209,86 @@
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
 #             - id: "Lecture code (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-      
+
+
+- week: 3
+  days:
+    - date: "Mon Feb 2"
+      items:
+        - type: "Lecture"
+          id: "6"
+          name: Data from Distributions
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1IJ06_78Kny0X_op8xvHODflshMZ2H4qb8oVUVc07fpo/edit?usp=sharing"
+            - id: "Annotated slides"
+              href: "https://drive.google.com/file/d/1aIcGXm1brsUIAtMEvtjXgq8I7gfVV0yK/view?usp=sharing"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1dZS2TLNucnYLcw3-Ta2d48eo8DnDfk4gDJ_CNRk8k_s/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1X7534JtOdoPCNfD_C77-ZxyUq6E8_CWtrejvnDo84ws/edit?usp=sharing"
+            - id: "Lecture code (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-lecture-code"
+            - id: "Lecture code (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+    - date: "Tue Feb 3"
+      items:
+        - type: "Section"
+          id: "4"
+          name: Working with distributions in R
+          href: "#"
+          auxil:
+            - id: "Lab 2 (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F"
+            - id: "Lab 2 (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main"
+    - date: "Wed Feb 4"
+      items:
+        - type: "Lecture"
+          id: "7"
+          name: Parables and perplexing problems pertaining to probability
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1_X1CrVhlMTKm4197H3_eMgH_e_SieJXdXhlrOf22S_Y/edit?usp=sharing"
+            # - id: "Annotated slides"
+            #   href: "#"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1VlBjaEgHrX16sLkJdCBvWwQ56dSC4k6zhxW0oP4GUMI/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1banfGnm_PEsoXJPqSdv8trl0EAKzyKhZov-cVthrx9c/edit?usp=sharing"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Thu Feb 5"
+      items:
+        - type: "Section"
+          id: "5"
+          name: Conceptual review of probability
+          href: "#"
+    - date: "Fri Feb 6"
+      items:
+        - type: "Lecture"
+          id: "8"
+          name: More parables and perplexing problems pertaining to probability
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1J15QrnYVivQGpCnMT4fjUJYPO00eZidcEtzKmTmASFo/edit?usp=sharing"
+            - id: "Annotated slides"
+              href: "https://drive.google.com/file/d/18LLOOxgbtS5iFc4ViQYzBN_42F-ff2QF/view?usp=sharing"
+            - id: "Worksheet"
+              href: "https://docs.google.com/presentation/d/1dOJTmDfNEqhBXTi3CPL_ryZA6V_FZSHvuiOD7HHSgAE/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1273g661pdZosn3BEm5dSjLraDn8VK7bpQoMWIsbcC8k/edit?usp=sharing"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+
+
 # - week: 3
 #   days:
 #     - date: "Mon Feb 2"

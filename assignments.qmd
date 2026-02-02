@@ -5,24 +5,21 @@ editor:
     wrap: sentence
 ---
 
-
-
-
-<!--## 📊 Lab 1 
+## 📊 Lab 1 
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
 
 [GitHub](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
 
-Due date: Sunday, February 1, 11:59 PST
+Due date: Sunday, February 8, 11:59PM PST
 
- ## 📊 HW1 
+## 📊 HW1 
 
 [HW 1 details](assignment1.html)
 
-Due date: Friday, September 13, midnight PT
+Due date: Sunday, February 15, 11:59PM PST
 
-## 🔔 Lab 2 
+<!--## 🔔 Lab 2 
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
