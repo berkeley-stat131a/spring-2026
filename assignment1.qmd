@@ -8,7 +8,7 @@ format:
     embed-resources: true
 ---
 
-Due date: **Friday, September 13 at midnight**.
+Due date: **Sunday, February 15 at 11:59PM**.
 
 ⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.
 
@@ -42,29 +42,29 @@ Submit your assignment via [Gradescope](https://www.gradescope.com/courses/12140
 **For the plot presentation, there are two submission steps.**
 
 -   **First**, submit a **public** link to your screencast via Gradescope. We will dock points if the link is not publicly accessible during grading. Test your link in an incognito window to ensure it's public.
--   **Second**, submit the same public link to your screencast using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ_eta2j21ClJrHl33JLig4f4gzDYeZOYdKVkobD3X2k1OWg/viewform?usp=sf_link). This second step prepares us for HW2, when another student will provide anonymous feedback on your screencast.
+-   **Second**, submit the same public link to your screencast using [this Google Form](https://forms.gle/uNP26KFHsbt7iNyL6). This second step prepares us for HW2, when another student will provide anonymous feedback on your screencast.
 
-**For math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.**
 
--   Alternatively, you can use $\LaTeX$ to typeset your answers within a `.Rmd` file within `RStudio`, or using another $\LaTeX$ editor like Overleaf.
+-   For Math problems, I encourage you to use $\LaTeX$ to typeset your answers within a `.Rmd` file within `RStudio`, or using another $\LaTeX$ editor like Overleaf.
 -   The basics of $\LaTeX$ are useful to learn if you ever plan to include a mathematical expression in a presentation or document in the future.
 -   [Here's a nice guide](https://ashki23.github.io/markdown-latex.html) for getting started.
 -   We can also help with $\LaTeX$ in office hours or via Ed.
+-   Alternatively, you can prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.
 
 ## Forms to complete (0% of the HW1 grade)
 
-Complete the [new student survey](https://docs.google.com/forms/d/e/1FAIpQLSeLyja2XcDNM0oykU5Y4UxALdPqDuZwy2-4Y5z57im3iBvl9Q/viewform?usp=sf_link).
+Complete the [new student survey](https://forms.gle/G5DX3XR9haZDX33g8).
 
 <!--Complete the [office hour survey](https://docs.google.com/forms/d/e/1FAIpQLSeK4R_VWUis_MRHIvS_jEDNOIERRjnuCjYQTWJVMa64fQI7XQ/viewform?usp=sf_link). -->
 
-## 📈 Data manipulation and plotting with `R` (50% of the HW1 grade)
+## 📈 Data manipulation and plotting with `R` (40% of the HW1 grade)
 
 Complete the HW1 coding problems:
-[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
 
 <!-- ,[HTML](labs-html/hw1-code-exercises.html) -->
 
-- The HW1 coding problems are located in `131a-labs-fall-2024` on DataHub.
+- The HW1 coding problems are located in `131a-labs-spring-2026` on DataHub.
 
 -   These problems build on the concepts covered in Lab 1, so be sure to complete Lab 1 before attempting these questions.
 
@@ -98,27 +98,37 @@ As part of HW2, you will provide anonymous feedback on another student's submiss
 -   Before submitting, make sure your screencast is publicly accessible with the link. One easy way to do this: Open the link in an incognito window in Google Chrome.
 -   If your video is private or unviewable when we try to access it, we will not be able to confirm that you submitted your video before the HW1 deadline. You may lose points.
 
-**Why complete this problem?** Communication is a critical, but often under-appreciated, component of data science.
-This exercise helps develop your data storytelling ability, which is essential for getting anyone to actually care about your statistical analyses!
+**Why complete this problem?** Communication is a critical, but often under-appreciated, component of data science. This exercise helps develop your data storytelling ability, which is essential for getting anyone to actually care about your statistical analyses!
 
-## 🔔 Working with probability density functions (PDFs) (20%)
+## 🔔 Probability density functions (PDFs) (30%)
 
 For the problem below, please show all steps.
 You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).
 
-Consider the function $f$ defined on the interval $[0,1]$ : $f(x) = cx^\frac{1}{3}$.
+Consider the family of functions $f$ defined on the interval $[0,1]$ : $f(x) = cx^\frac{1}{4}$.
 
-a.  Find the value of $c$ that makes $f$ a valid PDF for an r\.v\. $X$.
+a.  Find the value of $c$ that makes $f$ a valid PDF for a r\.v\. $X$.
 
 b.  What is $\Pr(0.1\leq X \leq 0.5)$?
 
-c.  What is $\Pr(0 \leq X \leq x)$, for any $x$ in $(0,1)$?
+c.  What is $\Pr(0 \leq X \leq x)$, for any $x$ in $[0,1]$?
+d. Explain the difference between $x$ and $X$. Confusing, right?
 
-d.  What is $\frac{d}{dx} \Pr(0\leq X \leq x)$? How does your answer to this problem compare to your answer in the first problem?
+e.  What is $\frac{d}{dx} \Pr(0\leq X \leq x)$? How does your answer to this problem compare to your answer in the first problem?
 
-e.  What is $\mathbb{E}(X)$?
+f.  What is $\mathbb{E}(X)$?
 
-f.  What is $\text{Var}(X)$?
+g.  What is $\text{Var}(X)$?
+
+h. What is $F_X (-1)$?
+
+<!--i. Sketch the plots of $f_X$ and $F_X$ on the same graph. Make sure the axes are labeled and have ticks and numbers on them. -->
+
+i. Why do we put the subscript $_X$ by the distribution symbols? What does it mean?
+
+
+
+
 
 **Why complete this problem?** 
 This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics. 
