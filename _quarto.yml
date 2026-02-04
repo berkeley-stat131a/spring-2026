@@ -40,8 +40,6 @@ website:
       # - href: license.qmd
       #   text: License
 
-          
-
 format:
   html:
     theme: cosmo
@@ -49,7 +47,6 @@ format:
     toc: true
     include-in-header:
       file: siteimprove.html
-
 
 include-in-header:
   - text: |
