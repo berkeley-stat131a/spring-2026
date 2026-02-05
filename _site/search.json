@@ -91,11 +91,11 @@
     ]
   },
   {
-    "objectID": "syllabus.html#concurrent-enrollment-and-auditing",
-    "href": "syllabus.html#concurrent-enrollment-and-auditing",
+    "objectID": "syllabus.html#waitlist-concurrent-enrollment-and-auditing",
+    "href": "syllabus.html#waitlist-concurrent-enrollment-and-auditing",
     "title": "Syllabus",
-    "section": "Concurrent enrollment and auditing 👂",
-    "text": "Concurrent enrollment and auditing 👂\nConcurrent enrollment students wishing to register for the class should fill out this Google Form to give me information about their previous coursework so we can assess whether they have satisfied the pre-requisites.\nUPDATE: Stat 131A will not be enrolling concurrent enrollment students in Fall 2024. But, concurrent enrollment students are welcome to audit the course.\nStudents who wish to audit the course can also fill out the top portion of this form to get their email added to bcourses as a guest. Only name and email is needed for auditors.",
+    "section": "Waitlist, Concurrent enrollment, and Auditing 👂",
+    "text": "Waitlist, Concurrent enrollment, and Auditing 👂\nStudents who wish to audit should get in touch with the staff to get added to bcourses/ED Discussion.\nStat C131A will not be enrolling concurrent enrollment students in Spring 2026. However, concurrent enrollment students are welcome to audit the course.\nWaitlisted students should contact staff to get added to bcourses/ED Discussion/Gradescope, attend lecture, and complete assignments. However, there is no guarantee that they will eventually get a spot in the class, if other students do not drop out. Make sure that you do not have conflicts that prevent the system from enrolling you in the class.",
     "crumbs": [
       "Syllabus"
     ]
@@ -141,16 +141,6 @@
     ]
   },
   {
-    "objectID": "syllabus.html#attendance-and-participation",
-    "href": "syllabus.html#attendance-and-participation",
-    "title": "Syllabus",
-    "section": "Attendance and participation ✋",
-    "text": "Attendance and participation ✋\nIn-person lecture attendance is mandatory.\n\nIt is critically important to practice learning in a live setting.\n\nDifficulty with paying attention in live meetings is a common hurdle for new grads.\n\nLecture attendance is a substantial component of your grade.\n\nLecture cannot be attended remotely.\nYou are allowed three unexcused lecture absences. Each additional absence will impact your lecture attendance grade.\n\nIf you cannot attend a lecture due to an extenuating circumstance, please complete the lecture attendance excusal form before the lecture starts.\n\nThis form can be completed months, weeks, or days in advance of lecture.\n\nAcceptable extenuating circumstances include:\n\nIllness. DO NOT come to class if you are sick! Even a sniffle!\nPersonal emergencies.\nImportant life events (e.g., weddings)\nPre-planned collegiate athletic events in which you are a participant.\nThis list is not exhaustive. If you think an absence should be excused, complete this form and explain your reasoning. We cannot guarantee that your absence will be excused, but we will be reasonable.\n\n\nConcept checks ✅\nWe will use in-class concept checks and neighbor discussions to track attendance.\n\nConcept checks are not graded.\nConcept checks are answered via this form. \nSubmitting a concept check outside of standard lecture time is considered cheating and an honor code violation. We will use your seat number and submission time to validate that your responses were entered during lecture time. We reserve the right to photograph the lecture hall to verify attendance.\n\n\n\nNeighbor discussions 🗣️\nIn addition to concept checks, there may be one or more neighbor discussions during each lecture.\n\nNeighbor discussion answers are submitted via this form.\nNeighbor discussion answers are not graded.\n\nTo encourage discussion among all classmates, we will award up to two percentage points of extra credit for having a variety of neighbors.\n\nThe students with the highest number of unique neighbors will receive the full two percentage points of extra credit.\nEveryone else will receive, at the minimum, a fraction of extra credit proportional to their number of unique neighbors.\nFor example, if you sit next to the same person all semester, you can receive full participation credit for neighbor discussions, but you will very little extra credit.\nThe extra credit policy will only take effect if at least one student has spoken to at least 20 unique neighbors over the course of the semester.\nAs above, submitting a neighbor discussion answer outside of standard lecture time is considered cheating and an honor code violation.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
     "objectID": "syllabus.html#homework",
     "href": "syllabus.html#homework",
     "title": "Syllabus",
@@ -161,21 +151,21 @@
     ]
   },
   {
-    "objectID": "syllabus.html#late-hw",
-    "href": "syllabus.html#late-hw",
-    "title": "Syllabus",
-    "section": "Late HW ⏰",
-    "text": "Late HW ⏰\nHW is due at 11:59pm. However, you can still submit work after midnight until the next C131A lecture time and we’ll apply an automated deduction of 15%.\nOnly exceptions are students with Letters of Accommodations.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
     "objectID": "syllabus.html#labs-1",
     "href": "syllabus.html#labs-1",
     "title": "Syllabus",
     "section": "Labs 🧪",
     "text": "Labs 🧪\nDuring lab sessions, a GSI will review conceptual material and help you work through lab coding assignments.\n\nLab sections meet twice a week.\n\nWe plan to have 12 lab assignments.\n\nEach assignment will teach you how to perform the analyses shown in class using R.\nLabs are intended to be finished or mostly finished during section.\nHW assignments may build on the exercises covered in lab.\n\nLab assignments are generally due on Mondays at 11:59 pm and should be submitted via Gradescope.\n\nLabs are graded on completion, not accuracy. As long as you have made a serious and convincing attempt at finishing them, you’ll get full credit.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#late-work",
+    "href": "syllabus.html#late-work",
+    "title": "Syllabus",
+    "section": "Late Work ⏰",
+    "text": "Late Work ⏰\nHW/Labs are due at 11:59pm. However, you can still submit work after midnight until the next C131A lecture time and we’ll apply an automated deduction of 15%.\nThe only exceptions are students with Letters of Accommodations.",
     "crumbs": [
       "Syllabus"
     ]
@@ -221,31 +211,11 @@
     ]
   },
   {
-    "objectID": "syllabus.html#course-communication",
-    "href": "syllabus.html#course-communication",
-    "title": "Syllabus",
-    "section": "Course communication 🗣️",
-    "text": "Course communication 🗣️\nWe use the Ed platform to manage course questions and discussion, and to make announcements.\nIn general, do not email the course staff.\n\nException: You are welcome to email individual members of the course staff if you have a private concern that you do not want shared with the entire course staff.\n\nPlease post publicly when possible.\n\nPublic posts benefit many more students than private posts.\nWe may ask you to change your private post to a public post if the answer could be of use to other students.\nYou are always allowed to remain anonymous!\n\nIf you include code in your Ed post, please use the code editing fonts:\nStandard font is hard to read:\n── Attaching packages ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ── ✓ ggplot2 3.3.2 ✓ purrr 0.3.4 ✓ tibble 3.0.3 ✓ dplyr 1.0.2 ✓ tidyr 1.1.2 ✓ stringr 1.4.0 ✓ readr 1.3.1 ✓ forcats 0.5.0 ── Conflicts ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ── x dplyr::filter() masks stats::filter() x dplyr::lag() masks stats::lag()\n# here’s my plot code\nx &lt;- ggplot(df) + geom_point(aes(x = year, y = count))\nCode font is easier to read:\n── Attaching packages ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ──\n✓ ggplot2 3.3.2     ✓ purrr   0.3.4\n✓ tibble  3.0.3     ✓ dplyr   1.0.2\n✓ tidyr   1.1.2     ✓ stringr 1.4.0\n✓ readr   1.3.1     ✓ forcats 0.5.0\n── Conflicts ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──\nx dplyr::filter() masks stats::filter()\nx dplyr::lag()    masks stats::lag()\n\n# here's my plot code\nx &lt;- ggplot(df) + geom_point(aes(x = year, y = count))",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
     "objectID": "syllabus.html#computing-environment",
     "href": "syllabus.html#computing-environment",
     "title": "Syllabus",
     "section": "Computing environment 🖥️",
     "text": "Computing environment 🖥️\nThe official course materials use the R programming language.   \n\nAs in Data 8 and Stat 20, labs and assignments will be distributed via DataHub.\n\nYou do not need to know anything about R to take this course.\n\nWe will provide resources for you to learn everything you need to know.\n\nThe concepts taught in this course are language-agnostic.\n\nIn other words, everything you learn in this class can be readily implemented using a combination of other tools (e.g., Python, SQL, etc.).\nNote that LLMs are an excellent aid for translating your knowledge across different programming language and software.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#weekly-topics",
-    "href": "syllabus.html#weekly-topics",
-    "title": "Syllabus",
-    "section": "Weekly topics 🥗",
-    "text": "Weekly topics 🥗\nThe following is a rough and optimistic guideline for the material we will cover in the semester.\n\nThe actual topics may vary as the semester goes along.\nIt is likely that we will proceed more slowly than this schedule indicates.\nRelevant sections of the textbook are linked for each week, though you are only responsible for the material we cover in lecture, lab, or HW assignments.\n\nWeek 1. Principles of visualization.\nWeek 2. Boxplots and histograms. Discrete and continuous distributions. 2.1, 2.3.\nWeek 3. Probability. Bayes’ theorem. Naive Bayes algorithm. 2.2.\nWeek 4. Sampling distributions. Bootstrapping. 2.4.\nWeek 5. Confidence intervals. Parametric hypothesis testing. 3.\nWeek 6. Non-parametric hypothesis testing. Type I and II errors. Power. Study design. Multiple testing. 3.\nWeek 7. Midterm 1 (Weeks 1-5). Linear regression. 4.1-4.3, 6\nWeek 8. More linear regression. Feature generation. Transformations. 6\nWeek 9. Cross-validation. Bias-variance tradeoff. Logistic regression. Classification error metrics. 7 7.5\nWeek 10. Buffer for Week 1-9 catch-up.\nWeek 11. Intro to non-parametric methods. Kernel density estimation (KDE). LOESS. 2.5. 4.4-4.5\nWeek 12. Midterm 2 (Weeks 1-10). Principle components analysis (PCA). Clustering. 5.4\nWeek 13. Decision trees. Random Forests. 8\nWeek 14. Buffer for Week 10-13 catch-up.\nWeek 15. Most likely, catch-up and review. If time permits, intro to causal inference.",
     "crumbs": [
       "Syllabus"
     ]
@@ -305,7 +275,7 @@
     "href": "index.html#schedule",
     "title": "Statistics C131A: Statistical Methods for Data Science",
     "section": "Schedule 📅",
-    "text": "Schedule 📅\n\n\n\n \n\n   Week 3\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Feb 6:\n           \n           \n               Lecture 8\n               \n                 More parables and perplexing problems pertaining to probability\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Annotated slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Feb 5:\n           \n           \n               Section 5\n               \n                 Conceptual review of probability\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Feb 4:\n           \n           \n               Lecture 7\n               \n                 Parables and perplexing problems pertaining to probability\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Feb 3:\n           \n           \n               Section 4\n               \n                 Working with distributions in R\n               \n          \n           \n                \n                 \n                   \n                     Lab 2 (DataHub)\n                   \n                 \n                   \n                     Lab 2 (GitHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Feb 2:\n           \n           \n               Lecture 6\n               \n                 Data from Distributions\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Annotated slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (GitHub)\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Jan 30:\n           \n           \n               Lecture 5\n               \n                 Finish plotting plus Intro to distributions.\n               \n          \n           \n                \n                 \n                   \n                     No Slides\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Jan 29:\n           \n           \n               Section 3\n               \n                 Data munging and plotting with stop-and-frisk (continued)\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Jan 28:\n           \n           \n               Lecture 4\n               \n                 Histograms\n               \n          \n           \n                \n                 \n                   \n                     Slides (finishing up previous ones)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Jan 27:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (DataHub)\n                   \n                 \n                   \n                     Lab 1 (HTML)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Jan 26:\n           \n           \n               Lecture 3\n               \n                 Boxplots\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n                   \n                     Lecture code (GitHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Jan 23:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Jan 22:\n           \n           \n               Section 1\n               \n                 Getting started with R (not graded!)\n               \n          \n           \n                \n                 \n                   \n                     Lab 0 (HTML w/ DataHub Link)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Jan 21:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "text": "Schedule 📅\n\n\n\n \n\n   Week 3\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Thu Feb 5:\n           \n           \n               Section 5\n               \n                 Working with distributions in R (continued)\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Feb 4:\n           \n           \n               Lecture 7\n               \n                 More discrete distributions\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Feb 3:\n           \n           \n               Section 4\n               \n                 Working with distributions in R\n               \n          \n           \n                \n                 \n                   \n                     Lab 2 (DataHub)\n                   \n                 \n                   \n                     Lab 2 (GitHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Feb 2:\n           \n           \n               Lecture 6\n               \n                 Random Variables & Distributions\n               \n          \n           \n                \n                 \n                   \n                     Slides (only partly followed)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Jan 30:\n           \n           \n               Lecture 5\n               \n                 Finish plotting plus Intro to distributions.\n               \n          \n           \n                \n                 \n                   \n                     No Slides\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Jan 29:\n           \n           \n               Section 3\n               \n                 Data munging and plotting with stop-and-frisk (continued)\n               \n          \n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Jan 28:\n           \n           \n               Lecture 4\n               \n                 Histograms\n               \n          \n           \n                \n                 \n                   \n                     Slides (finishing up previous ones)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Tue Jan 27:\n           \n           \n               Section 2\n               \n                 Data munging and plotting with stop-and-frisk\n               \n          \n           \n                \n                 \n                   \n                     Lab 1 (DataHub)\n                   \n                 \n                   \n                     Lab 1 (HTML)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Mon Jan 26:\n           \n           \n               Lecture 3\n               \n                 Boxplots\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n                   \n                     Lecture code (DataHub)\n                   \n                 \n                   \n                     Lecture code (GitHub)\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 1\n\n   \n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Fri Jan 23:\n           \n           \n               Lecture 2\n               \n                 Principles of visualization\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Thu Jan 22:\n           \n           \n               Section 1\n               \n                 Getting started with R (not graded!)\n               \n          \n           \n                \n                 \n                   \n                     Lab 0 (HTML w/ DataHub Link)\n                   \n                 \n               \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Wed Jan 21:\n           \n           \n               Lecture 1\n               \n                 Welcome!\n               \n          \n           \n                \n                 \n                   \n                     Slides\n                   \n                 \n                   \n                     Worksheet\n                   \n                 \n               \n           \n                \n           \n        \n   \n   \n   \n  \n\n\nNo matching items\n\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.",
     "crumbs": [
       "Home / Schedule"
     ]
@@ -430,11 +400,11 @@
     "text": "Forms to complete (0% of the HW1 grade)\nComplete the new student survey."
   },
   {
-    "objectID": "assignment1.html#data-manipulation-and-plotting-with-r-50-of-the-hw1-grade",
-    "href": "assignment1.html#data-manipulation-and-plotting-with-r-50-of-the-hw1-grade",
+    "objectID": "assignment1.html#data-manipulation-and-plotting-with-r-40-of-the-hw1-grade",
+    "href": "assignment1.html#data-manipulation-and-plotting-with-r-40-of-the-hw1-grade",
     "title": "📝 HW1",
-    "section": "📈 Data manipulation and plotting with R (50% of the HW1 grade)",
-    "text": "📈 Data manipulation and plotting with R (50% of the HW1 grade)\nComplete the HW1 coding problems: DataHub\n\n\nThe HW1 coding problems are located in 131a-labs-spring-2026 on DataHub.\nThese problems build on the concepts covered in Lab 1, so be sure to complete Lab 1 before attempting these questions."
+    "section": "📈 Data manipulation and plotting with R (40% of the HW1 grade)",
+    "text": "📈 Data manipulation and plotting with R (40% of the HW1 grade)\nComplete the HW1 coding problems: DataHub\n\n\nThe HW1 coding problems are located in 131a-labs-spring-2026 on DataHub.\nThese problems build on the concepts covered in Lab 1, so be sure to complete Lab 1 before attempting these questions."
   },
   {
     "objectID": "assignment1.html#plot-presentation-30",
@@ -444,11 +414,11 @@
     "text": "🗣️ Plot presentation (30%)\nIn their 2013 research paper titled The Missing “One-Offs”: The Hidden Supply of High-Achieving, Low-Income Students, Caroline Hoxby and Chris Avery investigate the behavior of high-achieving low-income applicants to undergraduate programs in the United States.\nHere is Figure 10 of their research paper:\n\nYour task: Record a 60-90 second screencast describing the plot above.\n\nYour audience is a UC Berkeley undergraduate who has not taken a statistics or data science course, and is unfamiliar with the research paper. You do not need to read the research paper in full to understand the plot, but you might find it helpful to reference.\nIn your screencast, you must explain the minimum necessary background required to understand the plot, along with the key takeaway(s) of the plot.\nYour name and face should not be in the screencast. In other words, the plot should take up the entire window of the screencast, with your voice playing in the background. Do not introduce yourself or use any identifying information.\nYou should use your mouse pointer to indicate particular points of interest on the plot. Alternatively, you can verbally direct the viewer to points of interest (e.g., “In the top right corner, you can see that…”).\nYou should use an engaging tone that sounds as though you are presenting to a live audience.\nYou are welcome to read off a script that you have written ahead of time, but try not to make it too obvious. In fact, it can be very helpful to write a script for a presentation ahead of time, even if you do not actually read the script when presenting.\nRemember the three key guiding questions you should address before digging into the details: (1) What’s on the X axis? (2) What’s on the Y axis? (3) What does a specific point/line/feature on your plot mean in context?\nThere are lots of free tools for recording screencasts. For example, QuickTime is a useful tool for recording screencasts on a Mac. Feel free to post on Ed if you cannot identify a way to record a screencast anonymously.\nIf you need more than 60-90 seconds to record for accessibility reasons, please let the teaching staff know via Ed.\n\nAs part of HW2, you will provide anonymous feedback on another student’s submission for this problem.\n\nYour screencast, along with the quality of feedback you provide to another student, will be graded by the teaching staff. At no point will other students grade your work.\n\n💾 Upload your screencast to your UC Berkeley Google Drive account, or another place that allows you to share a public link.\n\nYou will submit a public link to your screencast in two places. See submission details at the top of this page.\nBefore submitting, make sure your screencast is publicly accessible with the link. One easy way to do this: Open the link in an incognito window in Google Chrome.\nIf your video is private or unviewable when we try to access it, we will not be able to confirm that you submitted your video before the HW1 deadline. You may lose points.\n\nWhy complete this problem? Communication is a critical, but often under-appreciated, component of data science. This exercise helps develop your data storytelling ability, which is essential for getting anyone to actually care about your statistical analyses!"
   },
   {
-    "objectID": "assignment1.html#working-with-probability-density-functions-pdfs-20",
-    "href": "assignment1.html#working-with-probability-density-functions-pdfs-20",
+    "objectID": "assignment1.html#probability-density-functions-pdfs-30",
+    "href": "assignment1.html#probability-density-functions-pdfs-30",
     "title": "📝 HW1",
-    "section": "🔔 Working with probability density functions (PDFs) (20%)",
-    "text": "🔔 Working with probability density functions (PDFs) (20%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the function \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{4}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for a r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\((0,1)\\)?\nExplain the difference between \\(x\\) and \\(X\\). Confusing, right?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\nSketch the plot of \\(f_X\\) \\(F_X\\)\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
+    "section": "🔔 Probability density functions (PDFs) (30%)",
+    "text": "🔔 Probability density functions (PDFs) (30%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the family of functions \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{4}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for a r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\([0,1]\\)?\nExplain the difference between \\(x\\) and \\(X\\). Confusing, right?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\nWhat is \\(F_X (-1)\\)?\n\n\n\nWhy do we put the subscript \\(_X\\) by the distribution symbols? What does it mean?\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
   },
   {
     "objectID": "assignments.html",
@@ -485,187 +455,7 @@
     "href": "assignments.html#lab-2",
     "title": "Due dates",
     "section": "🔔 Lab 2",
-    "text": "🔔 Lab 2\nDataHub\nGitHub\nDue date: Wednesday, September 18, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-3",
-    "href": "assignments.html#lab-3",
-    "title": "Due dates",
-    "section": "👨‍🚀 Lab 3",
-    "text": "👨‍🚀 Lab 3\nDataHub\nGitHub\nYour Lab 3 submission must include a completed PDF of the Lecture 8 worksheet.\n\nYou can ignore the two normal distribution plots at the end of the worksheet.\n\nDue date: Monday, September 23, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw2",
-    "href": "assignments.html#hw2",
-    "title": "Due dates",
-    "section": "🍬 HW2",
-    "text": "🍬 HW2\nHW 2 details\nDue date: Friday, September 27 Monday, September 30, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-4-part-a-and-part-b",
-    "href": "assignments.html#lab-4-part-a-and-part-b",
-    "title": "Due dates",
-    "section": "🩸 Lab 4 (Part A and Part B)",
-    "text": "🩸 Lab 4 (Part A and Part B)\nDataHub (Part A and B)\nGitHub (Part A and B)\nDue date: Wednesday, October 2, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#midterm-1",
-    "href": "assignments.html#midterm-1",
-    "title": "Due dates",
-    "section": "📝 Midterm 1",
-    "text": "📝 Midterm 1\nWednesday, October 9, 2-3pm in Morgan 101",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-5",
-    "href": "assignments.html#lab-5",
-    "title": "Due dates",
-    "section": "🥾 Lab 5",
-    "text": "🥾 Lab 5\nLab 5 (DataHub)\nLab 5 (GitHub)\nDue date: Friday, October 11, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw3",
-    "href": "assignments.html#hw3",
-    "title": "Due dates",
-    "section": "🧪 HW3",
-    "text": "🧪 HW3\nHW 3 details\nDue date: Friday, October 18 Sunday, October 20, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-6",
-    "href": "assignments.html#lab-6",
-    "title": "Due dates",
-    "section": "🎯 Lab 6",
-    "text": "🎯 Lab 6\nLab 6 (DataHub)\nLab 6 (GitHub)\nDue date: Wednesday, October 23, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-7-parts-a-and-b-part-a",
-    "href": "assignments.html#lab-7-parts-a-and-b-part-a",
-    "title": "Due dates",
-    "section": "🚘 Lab 7, Parts A and B Part A",
-    "text": "🚘 Lab 7, Parts A and B Part A\nLab 7 (DataHub)\nLab 7 (GitHub)\nPart B posted shortly after Part A. There is no longer a Part B to Lab 7.\nDue date: Monday, October 28, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-8",
-    "href": "assignments.html#lab-8",
-    "title": "Due dates",
-    "section": "🚘 Lab 8",
-    "text": "🚘 Lab 8\nLab 8 (DataHub)\nLab 8 (GitHub)\nDue date: Friday, November 8, midnight PT\nNote: This due date should have been Friday, November 1. I’m leaving the deadline as 11/8 to minimize confusion, but note that HW4 draws on material from Lab 8.",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw4",
-    "href": "assignments.html#hw4",
-    "title": "Due dates",
-    "section": "🎓 HW4",
-    "text": "🎓 HW4\nHW 4 details\nDue date: Monday, November 4, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-9",
-    "href": "assignments.html#lab-9",
-    "title": "Due dates",
-    "section": "📈 Lab 9",
-    "text": "📈 Lab 9\nLab 9 (DataHub)\nLab 9 (GitHub)\nDue date: Friday, November 8, midnight PT\nNote: Lab 8 is also due on 11/8. See above.",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#midterm-2",
-    "href": "assignments.html#midterm-2",
-    "title": "Due dates",
-    "section": "📝 Midterm 2",
-    "text": "📝 Midterm 2\nWednesday, November 13, 2-3pm in Morgan 101",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-10",
-    "href": "assignments.html#lab-10",
-    "title": "Due dates",
-    "section": "🎯 Lab 10",
-    "text": "🎯 Lab 10\nLab 10 (DataHub)\nLab 10 (GitHub)\nAnticipated due date: Friday, November 22, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw5",
-    "href": "assignments.html#hw5",
-    "title": "Due dates",
-    "section": "🫀 HW5",
-    "text": "🫀 HW5\nHW 5 details\nDue date: Monday, November 25, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-11",
-    "href": "assignments.html#lab-11",
-    "title": "Due dates",
-    "section": "🤹 Lab 11",
-    "text": "🤹 Lab 11\nLab 11 (DataHub)\nLab 11 (GitHub)\nAnticipated due date: Friday, December 6, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw6",
-    "href": "assignments.html#hw6",
-    "title": "Due dates",
-    "section": "🏁 HW6",
-    "text": "🏁 HW6\nHW 6 details\nAnticipated due date: Monday, December 9, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#final-project",
-    "href": "assignments.html#final-project",
-    "title": "Due dates",
-    "section": "🏁 Final project",
-    "text": "🏁 Final project\nProject details\nAnticipated due date: Sunday, December 15, midnight PT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#final-exam",
-    "href": "assignments.html#final-exam",
-    "title": "Due dates",
-    "section": "🏁 Final exam",
-    "text": "🏁 Final exam\nThursday, December 19, 3-6pm @ GPBB 100",
+    "text": "🔔 Lab 2\nDataHub\nGitHub\nDue date: Thursday, February 12, 11:59PM PST",
     "crumbs": [
       "HW and Labs"
     ]
@@ -749,46 +539,5 @@
     "title": "License",
     "section": "",
     "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
-    "objectID": "syllabus.html#waitlist-concurrent-enrollment-and-auditing",
-    "href": "syllabus.html#waitlist-concurrent-enrollment-and-auditing",
-    "title": "Syllabus",
-    "section": "Waitlist, Concurrent enrollment, and Auditing 👂",
-    "text": "Waitlist, Concurrent enrollment, and Auditing 👂\nStudents who wish to audit should get in touch with the staff to get added to bcourses/ED Discussion.\nStat C131A will not be enrolling concurrent enrollment students in Spring 2026. However, concurrent enrollment students are welcome to audit the course.\nWaitlisted students should contact staff to get added to bcourses/ED Discussion/Gradescope, attend lecture, and complete assignments. However, there is no guarantee that they will eventually get a spot in the class, if other students do not drop out. Make sure that you do not have conflicts that prevent the system from enrolling you in the class.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#late-work",
-    "href": "syllabus.html#late-work",
-    "title": "Syllabus",
-    "section": "Late Work ⏰",
-    "text": "Late Work ⏰\nHW/Labs are due at 11:59pm. However, you can still submit work after midnight until the next C131A lecture time and we’ll apply an automated deduction of 15%.\nThe only exceptions are students with Letters of Accommodations.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "assignment1.html#probability-density-functions-pdfs-20",
-    "href": "assignment1.html#probability-density-functions-pdfs-20",
-    "title": "📝 HW1",
-    "section": "🔔 Probability density functions (PDFs) (20%)",
-    "text": "🔔 Probability density functions (PDFs) (20%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the family of functions \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{4}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for a r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\((0,1)\\)?\nExplain the difference between \\(x\\) and \\(X\\). Confusing, right?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\nWhat is \\(F_X (-1)\\)?\nSketch the plots of \\(f_X\\) and \\(F_X\\) on the same graph. Make sure the axes are labeled and have ticks and numbers on them.\nWhy do we put the subscript \\(_X\\) by the distribution symbols? What does it mean?\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
-  },
-  {
-    "objectID": "assignment1.html#data-manipulation-and-plotting-with-r-40-of-the-hw1-grade",
-    "href": "assignment1.html#data-manipulation-and-plotting-with-r-40-of-the-hw1-grade",
-    "title": "📝 HW1",
-    "section": "📈 Data manipulation and plotting with R (40% of the HW1 grade)",
-    "text": "📈 Data manipulation and plotting with R (40% of the HW1 grade)\nComplete the HW1 coding problems: DataHub\n\n\nThe HW1 coding problems are located in 131a-labs-spring-2026 on DataHub.\nThese problems build on the concepts covered in Lab 1, so be sure to complete Lab 1 before attempting these questions."
-  },
-  {
-    "objectID": "assignment1.html#probability-density-functions-pdfs-30",
-    "href": "assignment1.html#probability-density-functions-pdfs-30",
-    "title": "📝 HW1",
-    "section": "🔔 Probability density functions (PDFs) (30%)",
-    "text": "🔔 Probability density functions (PDFs) (30%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the family of functions \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{4}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for a r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\([0,1]\\)?\nExplain the difference between \\(x\\) and \\(X\\). Confusing, right?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\nWhat is \\(F_X (-1)\\)?\n\n\n\nWhy do we put the subscript \\(_X\\) by the distribution symbols? What does it mean?\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
   }
 ]
