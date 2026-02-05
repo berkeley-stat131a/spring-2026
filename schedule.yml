@@ -267,7 +267,7 @@
        - type: "Section"
          id: "5"
          name: Working with distributions in R (continued)
-         #href: "#"
+         href: "#"
 #    - date: "Fri Feb 6"
 #      items:
 #        - type: "Lecture"
