@@ -262,12 +262,12 @@
             #   href: "#"
             # - id: "Lecture code (DataHub)"
             #   href: "#"
-#    - date: "Thu Feb 5"
-#      items:
-#        - type: "Section"
-#          id: "5"
-#          name: Conceptual review of probability
-#          href: "#"
+    - date: "Thu Feb 5"
+      items:
+       - type: "Section"
+         id: "5"
+         name: Working with distributions in R (continued)
+         #href: "#"
 #    - date: "Fri Feb 6"
 #      items:
 #        - type: "Lecture"
