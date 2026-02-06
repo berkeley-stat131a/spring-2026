@@ -268,15 +268,15 @@
          id: "5"
          name: Working with distributions in R (continued)
          href: "#"
-#    - date: "Fri Feb 6"
-#      items:
-#        - type: "Lecture"
-#          id: "8"
-#          name: More parables and perplexing problems pertaining to probability
-#          href: "#"
-#          auxil:
-            #- id: "Slides"
-            #  href: "https://docs.google.com/presentation/d/1J15QrnYVivQGpCnMT4fjUJYPO00eZidcEtzKmTmASFo/edit?usp=sharing"
+    - date: "Fri Feb 6"
+      items:
+        - type: "Lecture"
+          id: "8"
+          name: Continuous distributions
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1D1lbsxIWRRNdGhyiBIHjcTZAMrRlojPkjQTqsbjAJDQ/edit?usp=sharing"
             #- id: "Annotated slides"
             #  href: "https://drive.google.com/file/d/18LLOOxgbtS5iFc4ViQYzBN_42F-ff2QF/view?usp=sharing"
             #- id: "Worksheet"
