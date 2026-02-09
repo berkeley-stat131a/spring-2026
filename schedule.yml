@@ -366,17 +366,17 @@
 #             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
 
-# - week: 4
-#   days:
-#     - date: "Mon Feb 9"
-#       items:
-#         - type: "Lecture"
-#           id: "7"
-#           name: Parallel universes
-#           href: "#"
-#           auxil:
-#             - id: "Slides"
-#               href: "https://docs.google.com/presentation/d/1Sv1xyeuvakhXlWuSOURbYJEgK-LvkShDpz86zaMJ1-o/edit?usp=sharing"
+- week: 4
+  days:
+    - date: "Mon Feb 9"
+      items:
+        - type: "Lecture"
+          id: "9"
+          name: CDF, variance, exercices with distributions and expectations. Introduction to inference.
+          href: "#"
+          auxil:
+            - id: "No slides for now"
+              href: #"https://docs.google.com/presentation/d/1Sv1xyeuvakhXlWuSOURbYJEgK-LvkShDpz86zaMJ1-o/edit?usp=sharing"
 #             # - id: "Annotated slides"
 #             #   href: "#"
 #             - id: "Worksheet"
@@ -387,12 +387,12 @@
 #             #   href: "#"
 #             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
-#     - date: "Tue Feb 10"
-#       items:
-#         - type: "Section"
-#           id: "5"
-#           name: Wrap up probability exercise and Lab 2
-#           href: "#"
+    - date: "Tue Feb 10"
+      items:
+        - type: "Section"
+          id: "6"
+          name: Exercises on probability distributions.
+          href: "#"
 #     - date: "Wed Feb 11"
 #       items:
 #         - type: "Lecture"
