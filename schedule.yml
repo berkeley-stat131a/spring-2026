@@ -346,7 +346,7 @@
       items:
         - type: "Lecture"
           id: "10"
-          name: Lost in the clouds: Normal, functions of RV, Intro to Inference
+          name: "Lost in the clouds: Normal, functions of RV, Intro to Inference.""
           href: "#"
           auxil:
 #             - id: "Demo (DataHub)"
@@ -380,7 +380,7 @@
       items:
         - type: "Lecture"
           id: "11"
-          name: Throwing darts into the clouds: our first point estimator
+          name: "Throwing darts into the clouds: our first point estimator."
           href: "#"
           auxil:
             - id: "Slides"
@@ -437,7 +437,7 @@
       items:
         - type: "Lecture"
           id: "12"
-          name: Magic tricks to know the unknown: sampling distributions.
+          name: "Magic tricks to know the unknown: sampling distributions.""
           href: "#"
           auxil:
 #            - id: "Slides"
