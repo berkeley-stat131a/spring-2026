@@ -289,57 +289,6 @@
             #   href: "#"
 
 
-# - week: 3
-#   days:
-#     - date: "Mon Feb 2"
-#       items:
-#         - type: "Lecture"
-#           id: "5"
-#           name: Data from Distributions
-#           href: "#"
-#           auxil:
-#             - id: "Slides"
-#               href: "https://docs.google.com/presentation/d/1IJ06_78Kny0X_op8xvHODflshMZ2H4qb8oVUVc07fpo/edit?usp=sharing"
-#             - id: "Annotated slides"
-#               href: "https://drive.google.com/file/d/1aIcGXm1brsUIAtMEvtjXgq8I7gfVV0yK/view?usp=sharing"
-#             - id: "Worksheet"
-#               href: "https://docs.google.com/presentation/d/1dZS2TLNucnYLcw3-Ta2d48eo8DnDfk4gDJ_CNRk8k_s/edit?usp=sharing"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "https://docs.google.com/presentation/d/1X7534JtOdoPCNfD_C77-ZxyUq6E8_CWtrejvnDo84ws/edit?usp=sharing"
-#             - id: "Lecture code (GitHub)"
-#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-#             - id: "Lecture code (DataHub)"
-#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
-#     - date: "Tue Feb 3"
-#       items:
-#         - type: "Section"
-#           id: "3"
-#           name: Working with distributions in R
-#           href: "#"
-#           auxil:
-#             - id: "Lab 2 (DataHub)"
-#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
-#             - id: "Lab 2 (GitHub)"
-#               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-#     - date: "Wed Feb 4"
-#       items:
-#         - type: "Lecture"
-#           id: "6a"
-#           name: Parables and perplexing problems pertaining to probability
-#           href: "#"
-#           auxil:
-#             - id: "Slides"
-#               href: "https://docs.google.com/presentation/d/1_X1CrVhlMTKm4197H3_eMgH_e_SieJXdXhlrOf22S_Y/edit?usp=sharing"
-#             # - id: "Annotated slides"
-#             #   href: "#"
-#             - id: "Worksheet"
-#               href: "https://docs.google.com/presentation/d/1VlBjaEgHrX16sLkJdCBvWwQ56dSC4k6zhxW0oP4GUMI/edit?usp=sharing"
-#             # - id: "Abridged slides for live notes"
-#             #   href: "https://docs.google.com/presentation/d/1banfGnm_PEsoXJPqSdv8trl0EAKzyKhZov-cVthrx9c/edit?usp=sharing"
-#             # - id: "Lecture code (HTML)"
-#             #   href: "#"
-#             # - id: "Lecture code (DataHub)"
-#             #   href: "#"
 #     - date: "Thu Feb 5"
 #       items:
 #         - type: "Section"
@@ -393,19 +342,19 @@
           id: "6"
           name: Exercises on probability distributions.
           href: "#"
-#     - date: "Wed Feb 11"
-#       items:
-#         - type: "Lecture"
-#           id: "8a"
-#           name: Sampling distributions
-#           href: "#"
-#           auxil:
+    - date: "Wed Feb 11"
+      items:
+        - type: "Lecture"
+          id: "10"
+          name: Lost in the clouds: Normal, functions of RV, Intro to Inference
+          href: "#"
+          auxil:
 #             - id: "Demo (DataHub)"
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-shiny-demos&urlpath=rstudio%2F"
 #             - id: "Demo (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/parametric-sampling-distribution-simulation.R"
-#             - id: "Slides"
-#               href: "https://docs.google.com/presentation/d/1ISrQnEeZal1nmfh7KGAS47N_AuGiJ7wKhGCoKSHtE4Y/edit?usp=sharing"
+              - id: "Slides"
+                href: "https://docs.google.com/presentation/d/1srca6vctvcC0YRvHMxVRBGsO33jDqcb-K7VpE_2sZXk/"
 #             # - id: "Annotated slides"
 #             #   href: "#"
 #             - id: "Worksheet"
@@ -416,27 +365,27 @@
 #             #   href: "#"
 #             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
-#     - date: "Thu Feb 12"
-#       items:
-#         - type: "Section"
-#           id: "6"
-#           name: Sampling distributions
+    - date: "Thu Feb 12"
+      items:
+        - type: "Section"
+          id: "n/a"
+          name: "canceled" #Sampling distributions
 #           href: "#"
 #           auxil:
 #             - id: "Lab 3 (DataHub)"
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
 #             - id: "Lab 3 (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-#     - date: "Fri Feb 13"
-#       items:
-#         - type: "Lecture"
-#           id: "8b"
-#           name: More on sampling distributions
-#           href: "#"
-#           auxil:
-#             - id: "Slides"
-#               href: "https://docs.google.com/presentation/d/1lJkcOuAmJ4OCKS2DO-0dQFzdaNod9kTKFv6i3HRkziU/edit?usp=sharing"
-#             # - id: "Annotated slides"
+    - date: "Fri Feb 13"
+      items:
+        - type: "Lecture"
+          id: "11"
+          name: Throwing darts into the clouds: our first point estimator
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/19DgF-UioX0_lh2x78Yd21okRMQn9cHc7s2B-5BXClwQ/edit?usp=sharing"
+            # - id: "Annotated slides"
 #             #   href: "#"
 #             - id: "Worksheet"
 #               href: "https://docs.google.com/presentation/d/1DyAqn8CmhxCeMxELP20iofjhpivoXpqnUqLkYekFeTk/edit?usp=sharing"
@@ -446,6 +395,97 @@
 #             #   href: "#"
 #             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
+
+
+- week: 5
+  days:
+    - date: "Mon Feb 16"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: No lecture (Presidents' Day)
+          href: "#"
+          auxil:
+#            - id: "Slides"
+#              href: "https://docs.google.com/presentation/d/1Ht9BGhNJAhaLADViZvC1hOVdKlugvM0S_z6rwL-upVo/edit?usp=sharing"
+#             # - id: "Annotated slides"
+#             #   href: "#"
+#             - id: "Demo (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-shiny-demos&urlpath=rstudio%2F"
+#             - id: "Demo (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/parametric-bootstrap-simulation.R"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/1y3LPugdCQm40XFySyZbmUyLgeu0W9NBFDPgodGzKZnM/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1FLNiKbBCeyY3mFTcfxlhUXKJIYcwJbkrOnBn0sO9SZo/edit?usp=sharing"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
+#             #   href: "#"     
+    - date: "Tue Feb 17"
+      items:
+        - type: "Section"
+          id: "7"
+          name: Sampling distributions
+          href: "#"
+          auxil:
+            - id: "Lab 3, Part A (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F"
+            - id: "Lab 3, Part A (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main/lab03"
+    - date: "Wed Feb 18"
+      items:
+        - type: "Lecture"
+          id: "12"
+          name: Magic tricks to know the unknown: sampling distributions.
+          href: "#"
+          auxil:
+#            - id: "Slides"
+#              href: "https://docs.google.com/presentation/d/1QypG8sVSSWzgzAclfOW4OW5lOpszZNB79jXkKaltVDs/edit?usp=sharing"
+#             - id: "Annotated slides"
+#               href: "https://drive.google.com/file/d/1AFQVs5ZJ9XPCe05cSpPjuezQGc_jzohz/view?usp=sharing"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/1-JKmo6Vx0gWcoMQ-Y80pv8at-L5s9flCJOOZOj3KrfA/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1h0JGbgTh4y6bWyKM2MbTq-iyDoz7Lf8zagAJfigl2II/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
+#     - date: "Thu Feb 19"
+#       items:
+#         - type: "Section"
+#           id: "8"
+#           name: Confidence intervals in R
+#           href: "#"
+#           auxil:
+#             - id: "Lab 4, Part B (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+#             - id: "Lab 4, Part B (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
+#     - date: "Fri Feb 20"
+#       items:
+#         - type: "Lecture"
+#           id: "10b"
+#           name: More on confidence intervals
+#           href: "#"
+#           auxil:
+#             - id: "Demo (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-shiny-demos&urlpath=rstudio%2F"
+#             - id: "Demo (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/confidence-interval-simulation.R"
+#             - id: "Slides"
+#               href: "https://docs.google.com/presentation/d/17suwYe7bBdYsFe_3-yd0sqM1LNfTh9kKPsYJCuQLRMk/edit?usp=sharing"
+#             - id: "Annotated slides"
+#               href: "https://drive.google.com/file/d/1E7zI2vSoAZTickeCQejnm9CHg15ro6Jw/view?usp=sharing"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/1ujy7CuYt4ZDv_o6bGdKLkHnyNcXQz1cdVPpqv8tHbnU/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1-k4m0EDRkfbH93I4J4VXYOGU0y229UMTnj1INPt5Dxs/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"     
 
 # - week: 5
 #   days:

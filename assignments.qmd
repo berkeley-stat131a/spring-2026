@@ -9,7 +9,7 @@ editor:
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
 
-[GitHub](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main/lab01)
 
 Due date: Sunday, February 8, 11:59PM PST
 
@@ -17,29 +17,25 @@ Due date: Sunday, February 8, 11:59PM PST
 
 [HW 1 details](assignment1.html)
 
-Due date: Sunday, February 15, 11:59PM PST
+Due date: Tuesday, February 17, 11:59PM PST
 
 ## 🔔 Lab 2 
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
 
-[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2026/tree/main)
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main/lab02)
 
 Due date: Thursday, February 12, 11:59PM PST
 
-<!--## 👨‍🚀 Lab 3 
+## 👨‍🚀 Lab 3 
 
-[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+[DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
 
-[GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+[GitHub](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main/lab03)
 
-Your Lab 3 submission must include a completed PDF of the Lecture 8 worksheet.
+Due date: Sunday, February 22, 11:59PM PST
 
--   You can ignore the two normal distribution plots at the end of the worksheet.
-
-Due date: Monday, September 23, midnight PT
-
-## 🍬 HW2 
+<!--## 🍬 HW2 
 
 [HW 2 details](assignment2.html)
 
