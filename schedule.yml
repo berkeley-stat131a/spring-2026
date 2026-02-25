@@ -346,15 +346,15 @@
       items:
         - type: "Lecture"
           id: "10"
-          name: "Lost in the clouds: Normal, functions of RV, Intro to Inference.""
+          name: "Lost in the clouds: Normal, functions of RV, Intro to Inference."
           href: "#"
           auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1srca6vctvcC0YRvHMxVRBGsO33jDqcb-K7VpE_2sZXk/"
 #             - id: "Demo (DataHub)"
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-shiny-demos&urlpath=rstudio%2F"
 #             - id: "Demo (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/parametric-sampling-distribution-simulation.R"
-              - id: "Slides"
-                href: "https://docs.google.com/presentation/d/1srca6vctvcC0YRvHMxVRBGsO33jDqcb-K7VpE_2sZXk/"
 #             # - id: "Annotated slides"
 #             #   href: "#"
 #             - id: "Worksheet"
@@ -437,11 +437,11 @@
       items:
         - type: "Lecture"
           id: "12"
-          name: "Magic tricks to know the unknown: sampling distributions.""
+          name: "Magic tricks to know the unknown: sampling distributions."
           href: "#"
           auxil:
-#            - id: "Slides"
-#              href: "https://docs.google.com/presentation/d/1QypG8sVSSWzgzAclfOW4OW5lOpszZNB79jXkKaltVDs/edit?usp=sharing"
+           - id: "Slides"
+             href: "https://docs.google.com/presentation/d/1QypG8sVSSWzgzAclfOW4OW5lOpszZNB79jXkKaltVDs/edit?usp=sharing"
 #             - id: "Annotated slides"
 #               href: "https://drive.google.com/file/d/1AFQVs5ZJ9XPCe05cSpPjuezQGc_jzohz/view?usp=sharing"
 #             - id: "Worksheet"
@@ -452,30 +452,30 @@
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
 #             - id: "Lecture code (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
-#     - date: "Thu Feb 19"
-#       items:
-#         - type: "Section"
-#           id: "8"
-#           name: Confidence intervals in R
-#           href: "#"
-#           auxil:
-#             - id: "Lab 4, Part B (DataHub)"
-#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
-#             - id: "Lab 4, Part B (GitHub)"
-#               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-#     - date: "Fri Feb 20"
-#       items:
-#         - type: "Lecture"
-#           id: "10b"
-#           name: More on confidence intervals
-#           href: "#"
-#           auxil:
-#             - id: "Demo (DataHub)"
-#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-shiny-demos&urlpath=rstudio%2F"
-#             - id: "Demo (GitHub)"
-#               href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/confidence-interval-simulation.R"
-#             - id: "Slides"
-#               href: "https://docs.google.com/presentation/d/17suwYe7bBdYsFe_3-yd0sqM1LNfTh9kKPsYJCuQLRMk/edit?usp=sharing"
+    - date: "Thu Feb 19"
+      items:
+        - type: "Section"
+          id: ""
+          name: Canceled
+          #href: "#"
+          #auxil:
+          #  - id: "Lab 4, Part B (DataHub)"
+          #    href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F"
+          #  - id: "Lab 4, Part B (GitHub)"
+          #    href: "https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main"
+    - date: "Fri Feb 20"
+      items:
+        - type: "Lecture"
+          id: "13"
+          name: Casting the smallest net to catch the biggest fish. Confidence intervals
+          href: "#"
+          auxil:
+#            - id: "Demo (DataHub)"
+#              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-shiny-demos&urlpath=rstudio%2F"
+#            - id: "Demo (GitHub)"
+#              href: "https://github.com/berkeley-stat131a/131a-shiny-demos/blob/main/confidence-interval-simulation.R"
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1dPdKVl4SZ8FBZqaqf9s5-V8CTaE9cvWYM55MyaqaeCg"
 #             - id: "Annotated slides"
 #               href: "https://drive.google.com/file/d/1E7zI2vSoAZTickeCQejnm9CHg15ro6Jw/view?usp=sharing"
 #             - id: "Worksheet"
@@ -576,6 +576,97 @@
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
 #             - id: "Lecture code (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-lecture-code"     
+
+- week: 6
+  days:
+    - date: "Mon Feb 23"
+      items:
+        - type: "Lecture"
+          id: "14"
+          name: The hunt for the sampling distribution. Calculating confidence intervals.
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1ne5Q1cJK9xcqIK3UmoYP4v1CBgWwO7gFAPli9EbMvOg"
+#            - id: "Annotated slides"
+#              href: "https://drive.google.com/file/d/1q6EV0lGotqHOtZQU0RoZP9PdhGuE_Iy1/view?usp=sharing"
+#            - id: "Worksheet"
+#              href: "https://docs.google.com/presentation/d/1QekZ_RxsgMBCvP-PEJ9Imc7zLVySKP-aD8qUUEa2b7k/edit?usp=sharing"
+            # - id: "Abridged slides for live notes"
+            #   href: "https://docs.google.com/presentation/d/1vbwNmli_nJTdn8ajOve7wqsavBgfwpSt4Yq02qD8VtY/edit?usp=sharing"
+            # - id: "Lecture code (HTML)"
+            #   href: "#"
+            # - id: "Lecture code (DataHub)"
+            #   href: "#"
+    - date: "Tue Feb 24"
+      items:
+        - type: "Section"
+          id: "8"
+          name: Confidence intervals in R
+          href: "#"
+          auxil:
+            - id: "Lab 4, Part B (DataHub)"
+              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F"
+            - id: "Lab 4, Part B (GitHub)"
+              href: "https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main"
+#        - type: "Section"
+#          id: "9"
+#          name: Intro to hypothesis testing
+#          href: "#"
+#          auxil:
+#            - id: "Lab 5 (DataHub)"
+#              href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+#            - id: "Lab 5 (GitHub)"
+#              href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
+    - date: "Wed Feb 25"
+      items:
+        - type: "Lecture"
+          id: "15"
+          name: Practice with distributions and estimators for the midterm
+          href: "#"
+          auxil:
+            - id: "Practice problems"
+              #href: "https://docs.google.com/presentation/d/1kS9Ocpz7WN_FXwE2Gd4vC74nsHuWh5L2x956K5hBFoE/edit?usp=sharing"
+            # - id: "Annotated slides"
+            #   href: "#"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/14AavBfcdvJG9iYW0mb7XFy2-HbP9UqgGZJJHGMcM5Ks/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1jQn3Ulek-FDnK_YG1-H6O7OiK8hdzHoNrU3NZaIpUVM/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"  
+#     - date: "Thu Feb 26"
+#       items:
+#         - type: "Section"
+#           id: "10"
+#           name: More on hypothesis testing
+#           href: "#"
+#           auxil:
+#             - id: "Lab 5 (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+#             - id: "Lab 5 (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
+#     - date: "Fri Feb 27"
+#       items:
+#         - type: "Lecture"
+#           id: "12a"
+#           name: Type I+II errors and multiple testing
+#           href: "#"
+#           auxil:
+#             - id: "Slides"
+#               href: "https://docs.google.com/presentation/d/1SjrkbntYjnrmvG04-1CEmkYYXJ1DTGgAsfJreR93kaY/edit?usp=sharing"
+#             - id: "Annotated slides"
+#               href: "https://drive.google.com/file/d/1d3QSFduTPUAyStAj61nbV3BgMrBU3UCA/view?usp=sharing"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/1-47k14Eqaogi2SjA5m3mrsvClgkn2gFbIp2muk18ypw/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/167FzE995fJKNMLI1xwEq37ZKvLNrqvonuE71ENrhssk/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"  
 
 # - week: 6
 #   days:
