@@ -8,7 +8,7 @@ format:
     embed-resources: true
 ---
 
-Due date: **Sunday, February 29 at 11:59PM**.
+Due date: **Tuesday, March 17 at 11:59PM**.
 
 ⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.
 
@@ -100,14 +100,13 @@ If you are at all surprised by the feedback you receive on your own screencast (
 Remember, it is not the audience's responsibility to decipher your presentation for its intended interpretation.
 You need to carefully prepare your presentation so that the intended interpretation is crystal clear!
 
-## What if the model is wrong?
+## A-Z Practice with Inference (80%)
 
-In this exercise we are going to explore (via a computer simulation) what would happen if I made the wrong model assumption 
+Complete questions 6 through 26 of the Midterm (Quiz 1) practice available on the [class website](https://bcourses.berkeley.edu/courses/1551511/files?preview=94033263).
 
-make a plot showing the pdf of the 
-create a histogram
+<!--
 
-<!-- ## 🥼 Rapid tests for COVID and Bayes' Rule ~~(25%)~~ (30%)
+## 🥼 Rapid tests for COVID and Bayes' Rule ~~(25%)~~ (30%)
 
 For the problem below, please show all steps.
 You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).
@@ -186,7 +185,7 @@ Later in the course, you will be able to compare the performance of your Naive B
 
 [DataHub](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
 
--   The HW1 coding problems are located in `131a-labs-fall-2024` directory.
+-   The HW1 coding problems are located in `131a-labs-spring-2026` directory.
 
 [GitHub](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
 
@@ -194,3 +193,5 @@ Later in the course, you will be able to compare the performance of your Naive B
 
 -   Don't attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above.
     **Note: The Naive Bayes coding problem is now optional, and worth up to five points of extra credit.**
+
+-->

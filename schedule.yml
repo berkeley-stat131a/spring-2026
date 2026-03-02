@@ -626,7 +626,7 @@
           href: "#"
           auxil:
             - id: "Practice problems"
-              href: "https://drive.google.com/file/d/1XCgox_fh-h0y0yTVE9HHgHpBtWuysv22/view?usp=sharing"
+              href: "https://drive.google.com/file/d/1XCgox_fh-h0y0yTVE9HHgHpBtWuysv22/view?usp=drive_link"
             # - id: "Annotated slides"
             #   href: "#"
 #             - id: "Worksheet"
@@ -637,24 +637,26 @@
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
 #             - id: "Lecture code (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-lecture-code"  
-#     - date: "Thu Feb 26"
-#       items:
-#         - type: "Section"
-#           id: "10"
-#           name: More on hypothesis testing
+    - date: "Thu Feb 26"
+      items:
+        - type: "Section"
+          id: "9"
+          name: "Finish lab 4 and practice"
 #           href: "#"
 #           auxil:
 #             - id: "Lab 5 (DataHub)"
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
 #             - id: "Lab 5 (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
-#     - date: "Fri Feb 27"
-#       items:
-#         - type: "Lecture"
-#           id: "12a"
-#           name: Type I+II errors and multiple testing
-#           href: "#"
-#           auxil:
+    - date: "Fri Feb 27"
+      items:
+        - type: "Lecture"
+          id: "16"
+          name: "More practice with sampling" #Type I+II errors and multiple testing
+          href: "#"
+          auxil:
+              - id: "Updated practice notes"
+              - href: "https://drive.google.com/file/d/1XCgox_fh-h0y0yTVE9HHgHpBtWuysv22/view?usp=drive_link"
 #             - id: "Slides"
 #               href: "https://docs.google.com/presentation/d/1SjrkbntYjnrmvG04-1CEmkYYXJ1DTGgAsfJreR93kaY/edit?usp=sharing"
 #             - id: "Annotated slides"
@@ -749,6 +751,81 @@
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
 #             - id: "Lecture code (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-lecture-code"  
+
+
+- week: 7
+  days:
+    - date: "Mon Mar 2"
+      items:
+        - type: "Lecture"
+          id: "17"
+          name: "More practice with sampling"
+          href: "#"
+          auxil:
+            - id: "Tons of exam practice exercises"
+            - href: "https://bcourses.berkeley.edu/courses/1551511/files?preview=94033263"
+            # - id: "Slides"
+            #   href: "#"
+#            - id: "Annotated worksheet/slides"
+#              href: "https://drive.google.com/file/d/1wSJFOfhNbSiFD4wC102F9i9Sccin-IHQ/view?usp=sharing"
+#             - id: "Worksheet/slides"
+#               href: "https://docs.google.com/presentation/d/1DOH-bvyFtWukYzjSgxxvjH0i91d_dB2WTDm78hmwCQ8/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "#"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
+#             #   href: "#"
+#     - date: "Tue Mar 3"
+#       items:
+#         - type: "Section"
+#           id: "11"
+#           name: Midterm 1 Prep Section
+#           href: "#"
+#     - date: "Wed Mar 4"
+#       items:
+#         - type: "Lecture"
+#           id: "MT1"
+#           name: Midterm 1 (in class)
+#           href: "#"
+#           auxil:
+#             - id: "Seating map"
+#               href: "https://docs.google.com/presentation/d/1CAYnNt1MAPEZxiYvfk6oqAkog1u23EqXZ52Nkqj7eMQ/edit?usp=sharing"
+#             # - id: "Annotated slides"
+#             #   href: "#"
+#             # - id: "Worksheet"
+#             #   href: "#"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "#"
+#             # - id: "Lecture code (HTML)"
+#             #   href: "#"
+#             # - id: "Lecture code (DataHub)"
+#             #   href: "#"
+#     - date: "Thu Mar 5"
+#       items:
+#         - type: "Section"
+#           id: "NA"
+#           name: Relax after midterm! No section.
+#           href: "#"
+#     - date: "Fri Mar 6"
+#       items:
+#         - type: "Lecture"
+#           id: "12b"
+#           name: Power and experiment planning
+#           href: "#"
+#           auxil:
+#             - id: "Slides"
+#               href: "https://docs.google.com/presentation/d/1vNam0pZOro6SGmoihj_OhNRtVRsB19ljypD_-hGVkKA/edit?usp=sharing"
+#             # - id: "Annotated slides"
+#             #   href: "#"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/1Ha_ekUgyFsrAcOOGuhYe1OUB6TxE-p2ohXBQLeA6Csg/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1kxLi9qRoDZ-73aqMigD57SUjYaX9bC_qlCENZb-IaqA/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
 
 # - week: 7
 #   days:
