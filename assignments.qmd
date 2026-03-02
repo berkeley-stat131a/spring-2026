@@ -35,11 +35,6 @@ Due date: Thursday, February 12, 11:59PM PST
 
 Due date: Sunday, February 22, 11:59PM PST
 
-<!--## 🍬 HW2 
-
-[HW 2 details](assignment2.html)
-
-Due date: ~~Friday, September 27~~ Monday, September 30, midnight PT
 
 ## 🩸 Lab 4 (Part A and Part B) 
 
@@ -47,12 +42,19 @@ Due date: ~~Friday, September 27~~ Monday, September 30, midnight PT
 
 [GitHub (Part A and B)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
 
-Due date: Wednesday, October 2, midnight PT
+Due date: March 2, 11:59PM PST
 
-##  📝 Midterm 1
+## 🍬 HW2 
 
-Wednesday, October 9, 2-3pm in Morgan 101
+[HW 2 details](assignment2.html)
 
+Due date: Tuesday, March 17, 11:59PM PDT
+
+##  📝 Midterm
+
+Wednesday, March 18, 11AM-12noon PDT during class.
+
+<!--
 ## 🥾 Lab 5 
 
 [Lab 5 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
