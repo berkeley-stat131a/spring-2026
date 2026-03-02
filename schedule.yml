@@ -637,11 +637,11 @@
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
 #             - id: "Lecture code (GitHub)"
 #               href: "https://github.com/berkeley-stat131a/131a-lecture-code"  
-     - date: "Thu Feb 26"
-       items:
-#         - type: "Section"
-#           id: "10"
-#           name: More on hypothesis testing
+    - date: "Thu Feb 26"
+      items:
+        - type: "Section"
+          id: "9"
+          name: "Finish lab 4 and practice"
 #           href: "#"
 #           auxil:
 #             - id: "Lab 5 (DataHub)"
@@ -762,6 +762,8 @@
           name: "More practice with sampling"
           href: "#"
           auxil:
+            - id: "Tons of exam practice exercises"
+            - href: "https://bcourses.berkeley.edu/courses/1551511/files?preview=94033263"
             # - id: "Slides"
             #   href: "#"
 #            - id: "Annotated worksheet/slides"

@@ -104,7 +104,9 @@ You need to carefully prepare your presentation so that the intended interpretat
 
 Complete questions 6 through 26 of the Midterm (Quiz 1) practice available on the [class website](https://bcourses.berkeley.edu/courses/1551511/files?preview=94033263).
 
-<!-- ## 🥼 Rapid tests for COVID and Bayes' Rule ~~(25%)~~ (30%)
+<!--
+
+## 🥼 Rapid tests for COVID and Bayes' Rule ~~(25%)~~ (30%)
 
 For the problem below, please show all steps.
 You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).
@@ -191,3 +193,5 @@ Later in the course, you will be able to compare the performance of your Naive B
 
 -   Don't attempt the Naive Bayes coding problems until you have completed the Naive Bayes setup above.
     **Note: The Naive Bayes coding problem is now optional, and worth up to five points of extra credit.**
+
+-->
