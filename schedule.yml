@@ -787,15 +787,15 @@
               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F"
             - id: "Lab 5 (GitHub)"
               href: "https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main"
-#     - date: "Wed Mar 4"
-#       items:
-#         - type: "Lecture"
-#           id: "MT1"
-#           name: Midterm 1 (in class)
-#           href: "#"
-#           auxil:
-#             - id: "Seating map"
-#               href: "https://docs.google.com/presentation/d/1CAYnNt1MAPEZxiYvfk6oqAkog1u23EqXZ52Nkqj7eMQ/edit?usp=sharing"
+    - date: "Wed Mar 4"
+      items:
+        - type: "Lecture"
+          id: "18"
+          name: Intro to Hypothesis testing
+          href: "#"
+          auxil:
+            - id: "Seating map"
+              href: "https://docs.google.com/presentation/d/1H-jhJaRBfaauK0MXtorlGzgbYNyPpPni15cp0wiLUiQ/edit?usp=sharing"
 #             # - id: "Annotated slides"
 #             #   href: "#"
 #             # - id: "Worksheet"
@@ -806,18 +806,18 @@
 #             #   href: "#"
 #             # - id: "Lecture code (DataHub)"
 #             #   href: "#"
-#     - date: "Thu Mar 5"
-#       items:
-#         - type: "Section"
-#           id: "NA"
-#           name: Relax after midterm! No section.
-#           href: "#"
-#     - date: "Fri Mar 6"
-#       items:
-#         - type: "Lecture"
-#           id: "12b"
-#           name: Power and experiment planning
-#           href: "#"
+    - date: "Thu Mar 5"
+      items:
+        - type: "Section"
+          id: "11"
+          name: Midterm practice
+          href: "#"
+    - date: "Fri Mar 6"
+      items:
+        - type: "Lecture"
+          id: "19"
+          name: Demo of hypothesis testing
+          href: "#"
 #           auxil:
 #             - id: "Slides"
 #               href: "https://docs.google.com/presentation/d/1vNam0pZOro6SGmoihj_OhNRtVRsB19ljypD_-hGVkKA/edit?usp=sharing"
@@ -899,6 +899,88 @@
 #               href: "https://docs.google.com/presentation/d/1Ha_ekUgyFsrAcOOGuhYe1OUB6TxE-p2ohXBQLeA6Csg/edit?usp=sharing"
 #             # - id: "Abridged slides for live notes"
 #             #   href: "https://docs.google.com/presentation/d/1kxLi9qRoDZ-73aqMigD57SUjYaX9bC_qlCENZb-IaqA/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
+
+- week: 8
+  days:
+    - date: "Mon Mar 9"
+      items:
+        - type: "Lecture Canceled"
+          id: "20"
+          name: Power analysis and 2-sample test.
+          href: "#"
+          auxil:
+            - id: "Slides"
+              href: "https://docs.google.com/presentation/d/1oEQpno0HOGvM0jWlQMUrUGknELXurFkffPQkXwQo194/edit?usp=sharing"
+#             # - id: "Annotated slides"
+#             #   href: "#"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/15GwYpWcT2nH1lh4V41z7RFb4mH7tMUVuQBgb6ORykfw/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1-18WRV6ISIBcCx1meY7d9FwemC5u9WcNrDXYmCFCyqQ/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
+#     - date: "Tue Mar 10"
+#       items:
+#         - type: "Section"
+#           id: "13"
+#           name: Multiple testing via simulation
+#           href: "#"
+#           auxil:
+#             - id: "Lab 6 (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+#             - id: "Lab 6 (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
+#     - date: "Wed Mar 11"
+#       items:
+#         - type: "Lecture"
+#           id: "14"
+#           name: Uncertainty in regression and multiple regression
+#           href: "#"
+#           auxil:
+#             - id: "Slides"
+#               href: "https://docs.google.com/presentation/d/1vdKQwLeeuYZHO0L-NjC7yquO2lPctalw-Mv_dFI8YG4/edit?usp=sharing"
+#             # - id: "Annotated slides"
+#             #   href: "#"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/18A6Medao9c8htha2DTZS_PqIR7hpP5ZJV77dLn85E5w/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1uZV8zhbUFBmkMSWtwSvJeNG33liJVMGgxj-9H59Cf4c/edit?usp=sharing"
+#             - id: "Lecture code (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
+#             - id: "Lecture code (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-lecture-code"
+#     - date: "Thu Mar 12"
+#       items:
+#         - type: "Section"
+#           id: "14"
+#           name: More on multiple testing + HW3 Help
+#           href: "#"
+#           auxil:
+#             - id: "Lab 6 (DataHub)"
+#               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F"
+#             - id: "Lab 6 (GitHub)"
+#               href: "https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main"
+#     - date: "Fri Mar 13"
+#       items:
+#         - type: "Lecture"
+#           id: "15"
+#           name: Closeness of fit
+#           href: "#"
+#           auxil:
+#             - id: "Slides"
+#               href: "https://docs.google.com/presentation/d/1VTySBzfYtQEgWJjQwEjQSa4xUBD9JczauOBAXLI5PVA/edit?usp=sharing"
+#             # - id: "Annotated slides"
+#             #   href: "#"
+#             - id: "Worksheet"
+#               href: "https://docs.google.com/presentation/d/10uzKxUjdb5iSi6x-Dfa1Nv5y4VdITpiahVuHaWcFXv4/edit?usp=sharing"
+#             # - id: "Abridged slides for live notes"
+#             #   href: "https://docs.google.com/presentation/d/1QOrhoRKKJpYpesXOYZtiU_Q_RNwYfcwDnyjXwiQs9ig/edit?usp=sharing"
 #             - id: "Lecture code (DataHub)"
 #               href: "https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-lecture-code&urlpath=rstudio%2F"
 #             - id: "Lecture code (GitHub)"
