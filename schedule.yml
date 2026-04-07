@@ -992,13 +992,20 @@
           name: After-Midterm review
           href: "#"
 
+- week: 10
+  days:
+    - date: "Mon Mar 23"
+      items:
+        - type: "Spring Break Week"
+
+
 - week: 11
   days:
     - date: "Mon Mar 30"
       items:
         - type: "Lecture"
           id: "23"
-          name: Escaping the clouds: Prediction
+          name: "Escaping the clouds: Prediction"
           href: "#"
           auxil:
             - id: "Slides"
@@ -1017,7 +1024,7 @@
       items:
         - type: "Section"
           id: "17"
-          name: Cross-validation
+          name: Lab 7
           href: "#"
           auxil:
             - id: "Lab 7, (DataHub)"
@@ -1081,7 +1088,7 @@
       items:
         - type: "Section"
           id: "19"
-          name: Linear probability models
+          name: Lab 8
           href: "#"
           auxil:
           - id: "Lab 8 (DataHub)"
