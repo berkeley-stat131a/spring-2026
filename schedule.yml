@@ -992,6 +992,12 @@
           name: After-Midterm review
           href: "#"
 
+- week: 10
+  days:
+    - date: "Mon Mar 23"
+      items:
+        - type: "Spring Break Week"
+
 - week: 11
   days:
     - date: "Mon Mar 30"
