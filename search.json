@@ -1,151 +1,24 @@
 [
   {
-    "objectID": "assignment2.html",
-    "href": "assignment2.html",
-    "title": "📝 HW2",
+    "objectID": "assignment5.html",
+    "href": "assignment5.html",
+    "title": "📝 HW5",
     "section": "",
-    "text": "Due date: Tuesday, March 17 at 11:59PM.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT C131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT C131A students, so there may be some unforeseen hiccups."
+    "text": "Due date: Monday, November 25 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
   },
   {
-    "objectID": "assignment2.html#submission",
-    "href": "assignment2.html#submission",
-    "title": "📝 HW2",
+    "objectID": "assignment5.html#submission",
+    "href": "assignment5.html#submission",
+    "title": "📝 HW5",
     "section": "📮 Submission",
-    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nLike for HW1, you will submit your screencast feedback in two places: (1) Gradescope and (2) Google Forms.\nGoogle Form for submitting feedback\nFor coding components, you will produce both (1) a .qmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .qmd and PDF files.\nTo generate a PDF of your code and output, do not render to PDF. Instead, render your .qmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Render.\nThe rendering process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for.\n\nFor math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.\n\nAlternatively, you can use \\(\\LaTeX\\) to typeset your answers within a .qmd file within RStudio, or using another \\(\\LaTeX\\) editor like Overleaf.\nThe basics of \\(\\LaTeX\\) are useful to learn if you ever plan to include a mathematical expression in a presentation or document in the future.\nHere’s a nice guide for getting started.\nWe can also help with \\(\\LaTeX\\) in office hours or via Ed."
+    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.\nTo generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for."
   },
   {
-    "objectID": "assignment2.html#plot-presentation-feedback-20",
-    "href": "assignment2.html#plot-presentation-feedback-20",
-    "title": "📝 HW2",
-    "section": "🗣️ Plot presentation feedback (20%)",
-    "text": "🗣️ Plot presentation feedback (20%)\nYou will be emailed a screencast ID for another student’s screencast from HW1.\n\nIf you have not received an email with a link by Thursday, February 19th at 11:59pm, please open a private Ed post.\nIf you did not submit a screencast for HW1, you will not receive an email with an assigned screencast ID. If you would like to review a screencast for HW2, please open a private Ed post letting us know.\nPublic links to screencasts can be found here.\n\nFor this exercise, you will write detailed feedback on your assigned screencast.\n\nKeep in mind that this feedback will be anonymously provided to the student who recorded the screencast.\nPlease be supportive but direct and honest with any criticism, and do not forget to point out positive feedback where deserved!\n\nAs you write your feedback, you may want to consider the prompts below. However, do not feel limited to just these prompts, and do not feel compelled to address every single prompt.\n\nWhat did you enjoy most about the presentation?\nWhat insights did you find particularly interesting?\nDid the presenter follow the key three tips of describing the x-axis, describing the y-axis, and explaining a plot feature (e.g., a point or line) in context, before diving into the details?\nCould the presenter have done anything to help you understand the plot more easily? Were you confused at any point?\nDid you find the tone of the presentation engaging? Did it sound like the presenter had practiced their presentation, or that they spent time thoughtfully writing a script for the presentation?\nDid the presenter sufficiently describe the contents of the plot?\nDid you have enough background information to understand the plot? Could the presentation have benefited from any more background information?\nDid the presenter describe the key takeaways of the plot? In other words, did the presenter explain why the plot actually matters in a real life context, as opposed to just explain how to read the plot?\nDid the presenter provide any extraneous information or “over-describe” anything? In other words, could the presenter have shortened any parts of the presentation without harming its key takeaways?\nWould any parts of the presentation benefit from more description or detail? Did anything feel rushed? \nDo you have any “nits” about the presentation (i.e., very small changes that could improve the presentation, like a typo or mispronunciation)? If you choose to answer this prompt, it should not take up more than 10% of the text of your entire feedback. Focus your energy on the “big picture” prompts.\n\nYour feedback will be graded based on demonstrated effort and thoughtfulness.\n\nYou should aim to write at least two paragraphs of feedback.\nYour feedback can alternatively be written as an organized, bulleted list equivalent in word count to roughly two paragraphs.\n\nWhy complete this problem? Writing detailed feedback on another student’s plot presentation will help you become a better presenter. One of the hardest data science skills to develop is “presentation empathy”, or a sense of how someone who has never seen your work before will interpret your presentations After staring at your own work for hours, it can be hard to see your work with “fresh eyes”. If you are at all surprised by the feedback you receive on your own screencast (or receive feedback with which you disagree!), take that moment as an excellent opportunity to understand how other people can interpret your work differently than you interpret your own work. Remember, it is not the audience’s responsibility to decipher your presentation for its intended interpretation. You need to carefully prepare your presentation so that the intended interpretation is crystal clear!"
-  },
-  {
-    "objectID": "assignment2.html#a-z-practice-with-inference-80",
-    "href": "assignment2.html#a-z-practice-with-inference-80",
-    "title": "📝 HW2",
-    "section": "A-Z Practice with Inference (80%)",
-    "text": "A-Z Practice with Inference (80%)\nComplete questions 6 through 26 of the Midterm (Quiz 1) practice available on the class website."
-  },
-  {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "Due dates",
-    "section": "",
-    "text": "DataHub\nGitHub\nDue date: Sunday, February 8, 11:59PM PST",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-1",
-    "href": "assignments.html#lab-1",
-    "title": "Due dates",
-    "section": "",
-    "text": "DataHub\nGitHub\nDue date: Sunday, February 8, 11:59PM PST",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw1",
-    "href": "assignments.html#hw1",
-    "title": "Due dates",
-    "section": "📊 HW1",
-    "text": "📊 HW1\nHW 1 details\nDue date: Tuesday, February 17, 11:59PM PST",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-2",
-    "href": "assignments.html#lab-2",
-    "title": "Due dates",
-    "section": "🔔 Lab 2",
-    "text": "🔔 Lab 2\nDataHub\nGitHub\nDue date: Thursday, February 12, 11:59PM PST",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-3",
-    "href": "assignments.html#lab-3",
-    "title": "Due dates",
-    "section": "👨‍🚀 Lab 3",
-    "text": "👨‍🚀 Lab 3\nDataHub\nGitHub\nDue date: Sunday, February 22, 11:59PM PST",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-4-part-a-and-part-b",
-    "href": "assignments.html#lab-4-part-a-and-part-b",
-    "title": "Due dates",
-    "section": "🩸 Lab 4 (Part A and Part B)",
-    "text": "🩸 Lab 4 (Part A and Part B)\nDataHub (Part A and B)\nGitHub (Part A and B)\nDue date: Moday, March 2, 11:59PM PST",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-5",
-    "href": "assignments.html#lab-5",
-    "title": "Due dates",
-    "section": "🥾 Lab 5",
-    "text": "🥾 Lab 5\nLab 5 (DataHub)\nLab 5 (GitHub)\nDue date: Monday, March 9, 11:59PM PDT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw2",
-    "href": "assignments.html#hw2",
-    "title": "Due dates",
-    "section": "🍬 HW2",
-    "text": "🍬 HW2\nHW 2 details\nDue date: Tuesday, March 17, 11:59PM PDT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#midterm",
-    "href": "assignments.html#midterm",
-    "title": "Due dates",
-    "section": "📝 Midterm",
-    "text": "📝 Midterm\nWednesday, March 18, 11AM-12noon PDT during class.",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-7",
-    "href": "assignments.html#lab-7",
-    "title": "Due dates",
-    "section": "🚘 Lab 7",
-    "text": "🚘 Lab 7\nLab 7 (DataHub)\nLab 7 (GitHub)\nDue date: Sunday, April 12th, 11:59PM PDT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#lab-8",
-    "href": "assignments.html#lab-8",
-    "title": "Due dates",
-    "section": "🚘 Lab 8",
-    "text": "🚘 Lab 8\nLab 8 (DataHub)\nLab 8 (GitHub)\nDue date: Sunday, April 19th, 11:59PM PDT",
-    "crumbs": [
-      "HW and Labs"
-    ]
-  },
-  {
-    "objectID": "assignments.html#hw3",
-    "href": "assignments.html#hw3",
-    "title": "Due dates",
-    "section": "🧪 HW3",
-    "text": "🧪 HW3\nHW 3 details\nDue date: Sunday, April 19, 11:59PM PDT",
-    "crumbs": [
-      "HW and Labs"
-    ]
+    "objectID": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
+    "href": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
+    "title": "📝 HW5",
+    "section": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)",
+    "text": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)\nDataHub\n\nThe HW5 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub"
   },
   {
     "objectID": "index.html",
@@ -204,37 +77,6 @@
     "title": "📝 HW3",
     "section": "🥼 Experiment design (50% of the HW3 grade)",
     "text": "🥼 Experiment design (50% of the HW3 grade)\nWhy answer this problem? If you come out of 131A with a solid understanding of the framework behind this question, you will be well-prepared to perform basic statistical inference in the real world, and also primed to learn new inference methods on the fly.\nStatins are drugs that reduce LDL (“bad cholesterol”) levels.\n\nHigh LDL levels are associated with an increased risk of adverse health outcomes, such as heart attacks and strokes.\nAbout 15% of the U.S. population is on some form of statin.\n\n\nFun fact: Early in COVID, Josh was eating so much chicken curry that his LDL went to unusually high levels for his age. As it turns out, one can of coconut milk has about 68 grams of saturated fat, which is a major contributor to LDL levels. Josh was eating the equivalent of two cans of coconut milk every week. By changing his diet, Josh was able to avoid needing a statin to manage his LDL levels. However, keep in mind that LDL levels are not just a function of diet, but also genetics, exercise, and other factors.\n\nFor the problem below, please show all steps.\n\nYou are welcome to use a scientific calculator or R for arithmetic (e.g., no need to do long division by hand).\n\nSuppose UC Berkeley scientists develop a new LDL-reducing drug.\n\nThe scientists want to compare the average efficacy of the new drug to the average efficacy of a brand name statin called Lipitor.\nThe scientists randomly assign either the new drug or Lipitor to 80 year-old patients with similarly high LDL levels.\n\nAfter three months of the patients taking either the new drug or Lipitor, you obtain the following data on LDL levels for the patients in each group.\n\nNote that LDL is measured in milligrams of LDL per deciliter of blood (mg/dL), Blood glucose has the same units (see coding section!).\n\n  ldl_lipitor = c(208, 197, 184, 194, 201, 196, 181, 207, 176, 198, 188, 195, 184, 189, 205, 188, 190, 188, 192, 181, 176, 193, 181, 176)\n  \n  ldl_new_drug = c(181, 190, 193, 176, 205, 161, 193, 189, 171, 180, 185, 185, 206, 173, 197, 179, 199, 170, 195, 176, 183, 186, 180, 182, 185, 178, 178)\nFor this scenario, answer the following:\n\nEstimand\n\nWhat is a reasonable difference in means estimand?\n\nMake sure to define any terms used in your estimand, and be specific about the relevant population.\n\n\n\n\nNull hypothesis\n\nWhat is a reasonable null hypothesis that uses your estimand?\n\n\n\nEstimator\n\nWhat is a reasonable estimator for your estimand?\n\nAgain, make sure to define any variables used in your answer.\n\nWhat is your point estimate? Make sure to include units.\nWhat is the sampling distribution of your estimator under the null hypothesis?\n\nHint: Is the normal distribution appropriate given the number of observations?\n\n\n\n\nConfidence interval\n\nWhat is a 90% confidence interval for your estimand?\n\nDerive your answer using &lt;r,p,q,d&gt;&lt;distribution&gt; R functions (e.g., runif).\nConfirm your answer by using a built-in hypothesis testing function in R (e.g., prop.test). You may have to use Google or PingPong to find the right testing function!\nThe derived result and testing function result should be similar, but it is OK if they are slightly different due to subtle differences in underlying methodology.\nThe code notebook for this HW contains space to include your code for question 6.\n\n\n\n\nHypothesis test\n\nWhat is the two-sided p-value associated with your null hypothesis and point estimate?\n\nDerive your answer using &lt;r,p,q,d&gt;&lt;distribution&gt; R functions (e.g., runif).\nConfirm your answer by using a built-in hypothesis testing function in R (e.g., prop.test).\nAgain, the derived result and testing function result should be similar, but it is OK if they are slightly different.\n\nWhat range of point estimates would have rejected the null hypothesis at a significance level (i.e., \\(\\alpha\\)) of 0.1?\nIs the result of your hypothesis test consistent with your confidence interval? Why or why not?\n\nThe code notebook for this HW contains space to include your code for questions 7 through 9.\n\n\n\n\nPower\n\nProvide a reasonable estimate of the power of a hypothesis test with \\(\\alpha=0.1\\) and sample sizes equal to the sample sizes in the data above.\n\nBe sure to state any additional assumptions needed to calculate power.\nDerive your answer using &lt;r,p,q,d&gt;&lt;distribution&gt; R functions (e.g., runif).\nConfirm your answer using an online power calculator. Take a screenshot of the calculator’s output as confirmation, and submit this screenshot with your handwritten work. There are many power calculators available. Google is your friend here!\nThe derived power and power calculator output should be similar, but it is OK if they are slightly different.\nThe code notebook for this HW contains space to include your code for question 10.\n\n\n\nIn general, power should be calculated BEFORE a hypothesis test, not after. Calculating power after an experiment is considered “cheating.” At the end of the day, this problem is simply intended to give you some practice calculating power. See this blog post for more details. Post-hoc (i.e., after the fact) power calculations are bad practice, but very common!\n\n\nAlso, we typically calculate power for a range of possible effect sizes, sample sizes, and significance levels (\\(\\alpha\\)), and generate power curves that are functions of these inputs. With some massaging, you could optionally turn your code for question 10 into a function that takes effect size, sample size, and significance levels as inputs, and returns power. Then, you could use geom_function to draw a power curve. It’s less code than you might think! See the Lecture 12 code for boilerplate power curve code."
-  },
-  {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "🍎 Staff",
-    "section": "",
-    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Andrea Massari You can call me Andrea or anything you’re comfortable with. Also, send memes.  amassari at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n Reader: Monica Tsai at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
-    "crumbs": [
-      "Staff"
-    ]
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
-  },
-  {
-    "objectID": "data.html#data-1",
-    "href": "data.html#data-1",
-    "title": "Data",
-    "section": "Data 1",
-    "text": "Data 1"
-  },
-  {
-    "objectID": "data.html#data-2",
-    "href": "data.html#data-2",
-    "title": "Data",
-    "section": "Data 2",
-    "text": "Data 2"
   },
   {
     "objectID": "syllabus.html",
@@ -427,25 +269,77 @@
     ]
   },
   {
-    "objectID": "assignment5.html",
-    "href": "assignment5.html",
-    "title": "📝 HW5",
+    "objectID": "assignment2.html",
+    "href": "assignment2.html",
+    "title": "📝 HW2",
     "section": "",
-    "text": "Due date: Monday, November 25 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
+    "text": "Due date: Tuesday, March 17 at 11:59PM.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT C131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT C131A students, so there may be some unforeseen hiccups."
   },
   {
-    "objectID": "assignment5.html#submission",
-    "href": "assignment5.html#submission",
-    "title": "📝 HW5",
+    "objectID": "assignment2.html#submission",
+    "href": "assignment2.html#submission",
+    "title": "📝 HW2",
+    "section": "📮 Submission",
+    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nLike for HW1, you will submit your screencast feedback in two places: (1) Gradescope and (2) Google Forms.\nGoogle Form for submitting feedback\nFor coding components, you will produce both (1) a .qmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .qmd and PDF files.\nTo generate a PDF of your code and output, do not render to PDF. Instead, render your .qmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Render.\nThe rendering process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for.\n\nFor math problems, prepare a photo of your handwritten answers to each problem, convert the photo to a PDF, and submit the PDF to Gradescope.\n\nAlternatively, you can use \\(\\LaTeX\\) to typeset your answers within a .qmd file within RStudio, or using another \\(\\LaTeX\\) editor like Overleaf.\nThe basics of \\(\\LaTeX\\) are useful to learn if you ever plan to include a mathematical expression in a presentation or document in the future.\nHere’s a nice guide for getting started.\nWe can also help with \\(\\LaTeX\\) in office hours or via Ed."
+  },
+  {
+    "objectID": "assignment2.html#plot-presentation-feedback-20",
+    "href": "assignment2.html#plot-presentation-feedback-20",
+    "title": "📝 HW2",
+    "section": "🗣️ Plot presentation feedback (20%)",
+    "text": "🗣️ Plot presentation feedback (20%)\nYou will be emailed a screencast ID for another student’s screencast from HW1.\n\nIf you have not received an email with a link by Thursday, February 19th at 11:59pm, please open a private Ed post.\nIf you did not submit a screencast for HW1, you will not receive an email with an assigned screencast ID. If you would like to review a screencast for HW2, please open a private Ed post letting us know.\nPublic links to screencasts can be found here.\n\nFor this exercise, you will write detailed feedback on your assigned screencast.\n\nKeep in mind that this feedback will be anonymously provided to the student who recorded the screencast.\nPlease be supportive but direct and honest with any criticism, and do not forget to point out positive feedback where deserved!\n\nAs you write your feedback, you may want to consider the prompts below. However, do not feel limited to just these prompts, and do not feel compelled to address every single prompt.\n\nWhat did you enjoy most about the presentation?\nWhat insights did you find particularly interesting?\nDid the presenter follow the key three tips of describing the x-axis, describing the y-axis, and explaining a plot feature (e.g., a point or line) in context, before diving into the details?\nCould the presenter have done anything to help you understand the plot more easily? Were you confused at any point?\nDid you find the tone of the presentation engaging? Did it sound like the presenter had practiced their presentation, or that they spent time thoughtfully writing a script for the presentation?\nDid the presenter sufficiently describe the contents of the plot?\nDid you have enough background information to understand the plot? Could the presentation have benefited from any more background information?\nDid the presenter describe the key takeaways of the plot? In other words, did the presenter explain why the plot actually matters in a real life context, as opposed to just explain how to read the plot?\nDid the presenter provide any extraneous information or “over-describe” anything? In other words, could the presenter have shortened any parts of the presentation without harming its key takeaways?\nWould any parts of the presentation benefit from more description or detail? Did anything feel rushed? \nDo you have any “nits” about the presentation (i.e., very small changes that could improve the presentation, like a typo or mispronunciation)? If you choose to answer this prompt, it should not take up more than 10% of the text of your entire feedback. Focus your energy on the “big picture” prompts.\n\nYour feedback will be graded based on demonstrated effort and thoughtfulness.\n\nYou should aim to write at least two paragraphs of feedback.\nYour feedback can alternatively be written as an organized, bulleted list equivalent in word count to roughly two paragraphs.\n\nWhy complete this problem? Writing detailed feedback on another student’s plot presentation will help you become a better presenter. One of the hardest data science skills to develop is “presentation empathy”, or a sense of how someone who has never seen your work before will interpret your presentations After staring at your own work for hours, it can be hard to see your work with “fresh eyes”. If you are at all surprised by the feedback you receive on your own screencast (or receive feedback with which you disagree!), take that moment as an excellent opportunity to understand how other people can interpret your work differently than you interpret your own work. Remember, it is not the audience’s responsibility to decipher your presentation for its intended interpretation. You need to carefully prepare your presentation so that the intended interpretation is crystal clear!"
+  },
+  {
+    "objectID": "assignment2.html#a-z-practice-with-inference-80",
+    "href": "assignment2.html#a-z-practice-with-inference-80",
+    "title": "📝 HW2",
+    "section": "A-Z Practice with Inference (80%)",
+    "text": "A-Z Practice with Inference (80%)\nComplete questions 6 through 26 of the Midterm (Quiz 1) practice available on the class website."
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "🍎 Staff",
+    "section": "",
+    "text": "The teaching staff is excited to have you in 131A!\n\n\n\n Instructor: Andrea Massari You can call me Andrea or anything you’re comfortable with. Also, send memes.  amassari at berkeley dot edu    \n\n\n GSI: Van Hovenga vhovenga at berkeley dot edu      \n\n\n Reader: Monica Tsai at berkeley dot edu      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn general, please use Ed to communicate with the course staff.\nUnless otherwise indicated, email should only be used for private concerns directed to a specific member of the teaching staff.",
+    "crumbs": [
+      "Staff"
+    ]
+  },
+  {
+    "objectID": "assignment4.html",
+    "href": "assignment4.html",
+    "title": "📝 HW4",
+    "section": "",
+    "text": "Due date: Monday, November 4 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
+  },
+  {
+    "objectID": "assignment4.html#submission",
+    "href": "assignment4.html#submission",
+    "title": "📝 HW4",
     "section": "📮 Submission",
     "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.\nTo generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for."
   },
   {
-    "objectID": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
-    "href": "assignment5.html#inference-and-prediction-with-logistic-regression-and-lpms-in-r-100-of-the-hw5-grade",
-    "title": "📝 HW5",
-    "section": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)",
-    "text": "🔮 Inference and prediction with logistic regression and LPMs in R (100% of the HW5 grade)\nDataHub\n\nThe HW5 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub"
+    "objectID": "assignment4.html#forms-to-complete-0-of-the-hw2-grade",
+    "href": "assignment4.html#forms-to-complete-0-of-the-hw2-grade",
+    "title": "📝 HW4",
+    "section": "📝 Forms to complete (0% of the HW2 grade)",
+    "text": "📝 Forms to complete (0% of the HW2 grade)\nIf you have not already, complete the follow-up anonymous course pulse check.\n\nTo make sure everyone’s opinion is represented in any subsequent changes to the course, is critical to get 100% participation on this survey.\nAs the saying goes, “The squeaky wheel gets the grease.”"
+  },
+  {
+    "objectID": "assignment4.html#inference-and-prediction-with-multiple-regression-in-r-100-of-the-hw4-grade",
+    "href": "assignment4.html#inference-and-prediction-with-multiple-regression-in-r-100-of-the-hw4-grade",
+    "title": "📝 HW4",
+    "section": "🔮 Inference and prediction with multiple regression in R (100% of the HW4 grade)",
+    "text": "🔮 Inference and prediction with multiple regression in R (100% of the HW4 grade)\nDataHub\n\nThe HW4 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
     "objectID": "assignment1.html",
@@ -490,28 +384,11 @@
     "text": "🔔 Probability density functions (PDFs) (30%)\nFor the problem below, please show all steps. You are welcome to use a scientific calculator for arithmetic (e.g., no need to do long division by hand).\nConsider the family of functions \\(f\\) defined on the interval \\([0,1]\\) : \\(f(x) = cx^\\frac{1}{4}\\).\n\nFind the value of \\(c\\) that makes \\(f\\) a valid PDF for a r.v. \\(X\\).\nWhat is \\(\\Pr(0.1\\leq X \\leq 0.5)\\)?\nWhat is \\(\\Pr(0 \\leq X \\leq x)\\), for any \\(x\\) in \\([0,1]\\)?\nExplain the difference between \\(x\\) and \\(X\\). Confusing, right?\nWhat is \\(\\frac{d}{dx} \\Pr(0\\leq X \\leq x)\\)? How does your answer to this problem compare to your answer in the first problem?\nWhat is \\(\\mathbb{E}(X)\\)?\nWhat is \\(\\text{Var}(X)\\)?\nWhat is \\(F_X (-1)\\)?\n\n\n\nWhy do we put the subscript \\(_X\\) by the distribution symbols? What does it mean?\n\nWhy complete this problem? This problem will solidify your foundational understanding of probability density functions, which are a bread-and-butter building block of applied statistics."
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Final project - THIS INFORMATION IS NOT UP TO DATE FOR SPRING 2026",
     "section": "",
-    "text": "Due date: Sunday, December 15 at midnight.",
-    "crumbs": [
-      "Project"
-    ]
-  },
-  {
-    "objectID": "project.html#options",
-    "href": "project.html#options",
-    "title": "Final project - THIS INFORMATION IS NOT UP TO DATE FOR SPRING 2026",
-    "section": "Options",
-    "text": "Options\nYou have two choices for the STAT 131A final project:\n\nThe default project. The default project is a lot like an open-ended homework assignment. You will use tools from the course to conduct an open-ended exploration of a cleaned dataset.\nA custom project. The custom project is an opportunity to explore a topic of your choosing. You will need to identify and clean your own dataset(s), and you will have more flexibility in the tools you use to analyze the data.\n\nThe total expected time required for a proficient grade on the default project versus a custom project is the same.\n\nHowever, a custom project may require more time devoted to formulating a research question and identifying/cleaning data, while the default project may require more time devoted to coding.\nIf you want to produce an “above and beyond” project that can be showcased on your resume or personal website, or a project that can be described in a future letter of recommendation, we recommend that you consider a custom project.\nBut, please keep in mind that you can still receive up to 100% on the final project grade by completing the default project.",
+    "text": "Due date: Sunday, May 10th at 11:59PM.",
     "crumbs": [
       "Project"
     ]
@@ -521,48 +398,191 @@
     "href": "project.html#description-of-the-default-project",
     "title": "Final project - THIS INFORMATION IS NOT UP TO DATE FOR SPRING 2026",
     "section": "Description of the default project",
-    "text": "Description of the default project\nThe four deliverables of the default project:\n\nConduct extensive exploratory data analysis (EDA) of data from a clinical trial\nConduct hypothesis tests to assess the quality of randomization of patients to a drug versus a placebo.\nFit a linear regression model to the number of days a patient survives from the time of registration in the clinical study (n_days).\nFit a logistic regression model to a binary outcome that you construct using n_days.\n\nThe default project may be completed in groups of 1-3 students.\n\nTeams of 4 or more students will not be approved, so please do not ask for an exception!\nIf you need help finding group members, please open a private post on Ed. The course staff can help with introductions.\n\nEach default project team will prepare a 8-10 page memo summarizing their key findings.\n\nYour memo should not contain any code. It should contain only text and visualizations.\nSee the custom project FAQs below for a sense of how you might structure your memo. You can also check out sample project memos on other topics.\nKeep in mind that the custom project memo is only 3 pages, but custom project teams must also record a 5-7 minute lightning talk of their findings.\n\nFinally, keep in mind that the course staff is aware of past projects from 131A floating around the internet.\n\nCopying from an existing project is considered cheating, and will be addressed in a manner outlined in the syllabus.\n\n\nDataset\nThe dataset (cholangitis.csv) comes from a randomized, clinical trial of the immunosuppressive drug D-penicillamine at the Mayo Clinic.\n\nThe study consisted of patients living with primary biliary cholangitis, a fatal chronic autoimmune disease of unknown cause affecting the liver. The study lasted about 12 years.\nPatients were randomly given either D-penicillamine or a placebo, and both the patient and the health care providers were unaware as to which the patient received (“double-blinded”).\n\nThere are 418 observations of 20 variables, both numeric and categorical.\n\nThe description of the variables can be found in cholangitis_dictionary.csv.\n\n\n\nMain guiding question\nDoes the effect of the drug D-penicillamine on patients with primary biliary cholangitis differ from the effect of a placebo?\n\nAll of your analyses should be related to this research question in some way.\n\n\n\nVisualizing the data (50% of the default project grade)\nPerform exploratory data analysis of the data, using any appropriate tools we have learned. Note any interesting features of the data.\n\nAs you work on this part, you will produce dozens of plots and tables in RStudio.\nHowever, in the final submission, you will submit 3-5 professionally-formatted visualizations that each showcase a non-trivial finding from the data.\nEach visualization should be accompanied by a compelling narrative caption that describes the key takeaways.\nNote that EDA is half of the default project grade. There is a reason for this: Many interesting findings primarily originate from careful EDA, and statistical modeling supports or adds depth to these main findings.\nSo, you should be spending at least half of your project time making compelling visualizations!\nYour visualizations alone (i.e, without any other part of the submission) should be able to tell a compelling story about whether the drug D-penicillamine appears to be effective.\n\n\n\nHypothesis testing (20% of the default project grade)\nConduct one hypothesis test for each of the columns in the dataset, excluding the response variable n_days and the treatment variable.\n\nEach hypothesis test should assess whether the distribution of the covariate differs between the treatment and control group.\nAre your results consistent with fully randomized assignment of the drug? Explain.\nBe sure to draw on the lessons from the multiple testing lecture when assessing statistical significance.\nMake sure to write one or more functions to avoid rewriting too much code. You should not need to copy-paste all of your code for each hypothesis test.\nYou are free show your hypothesis test results using a visualization, and/or a nicely-formatted table.\n\n\n\nModel fitting (30% of the default project grade)\nPerform (1) a linear regression analysis of the response (n_days) on the explanatory variables, and (2) a logistic regression analysis of a binary outcome that you construct based on n_days.\n\nIn your submission, describe whether and how you transformed your data or covariates to fit your models, or excluded any observations, and why. Tell a story.\nThere should be evidence that you considered interactions and polynomial terms when identifying the best model specification, though they do not necessarily have to be contained in your final models.\nYou should use cross-validation to select the best performing model specifications. You are free to choose any error metric to validate on. For example, you might choose RMSE, TPR, TNR, or another metric that you think is most appropriate given the dataset and your assumptions about the scenario.\nBased on your models, what conclusion can you draw about the effect of the drug D-penicillamine on patient survival? Does the effect appear to differ across groups? Be sure to draw on the tools of inference in your answer.",
+    "text": "Description of the default project\nThe four deliverables of the default project:\n\nConduct exploratory data analysis (EDA) of data from a clinical trial.\nConduct hypothesis tests to assess the quality of randomization of patients to a drug versus a placebo.\nFit a linear regression model to the number of days a patient survives from the time of registration in the clinical study (n_days).\nFit a logistic regression model to a binary outcome that you construct using n_days.\n\nThe default project may be completed in groups of 1-3 students.\n\nTeams of 4 or more students will not be approved, so please do not ask for an exception!\nIf you need help finding group members, please open a private post on Ed. The course staff can help with introductions.\n\nEach default project team will prepare a 6-10 page memo summarizing their key findings.\n\nYour memo should not contain any code. It should contain only text and visualizations.\nSee the custom project FAQs below for a sense of how you might structure your memo. You can also check out sample project memos on other topics.\n\nFinally, keep in mind that the course staff is aware of past projects from C131A floating around the internet.\n\nCopying from an existing project is considered cheating, and will be addressed in a manner outlined in the syllabus.\n\n\nDataset\nThe dataset (cholangitis.csv) comes from a randomized, clinical trial of the immunosuppressive drug D-penicillamine at the Mayo Clinic.\n\nThe study consisted of patients living with primary biliary cholangitis, a fatal chronic autoimmune disease of unknown cause affecting the liver. The study lasted about 12 years.\nPatients were randomly given either D-penicillamine or a placebo, and both the patient and the health care providers were unaware as to which the patient received (“double-blinded”).\n\nThere are 418 observations of 20 variables, both numeric and categorical.\n\nThe description of the variables can be found in cholangitis_dictionary.csv.\n\n\n\nMain guiding question\nDoes the effect of the drug D-penicillamine on patients with primary biliary cholangitis differ from the effect of a placebo?\n\nAll of your analyses should be related to this research question in some way.\n\n\n\nVisualizing the data (30% of the default project grade)\nPerform exploratory data analysis of the data, using any appropriate tools we have learned. Note any interesting features of the data.\n\nAs you work on this part, you will produce dozens of plots and tables in RStudio.\nHowever, in the final submission, you will submit 3-5 professionally-formatted visualizations that each showcase a non-trivial finding from the data.\nEach visualization should be accompanied by a compelling narrative caption that describes the key takeaways.\nN.B. Your visualizations alone (i.e, without any other part of the submission) should be able to tell a compelling story about whether the drug D-penicillamine appears to be effective.\n\n\n\nEffect estimation and Hypothesis testing (40% of the default project grade)\nConduct one hypothesis test for each of the columns in the dataset, excluding the response variable n_days and the treatment variable.\n\nEach hypothesis test should assess whether the distribution of the covariate differs between the treatment and control group.\nImportant: State and discuss the hypotheses you are making about the data and which testing method you are using, as a consequence.\nAre your results consistent with fully randomized assignment of the drug? Explain.\nMake sure to consider the fact that you are testing many different hypotheses at the same time, or, if you prefer, that your overall hypothesis is made up of several sub-hypotheses. This means that the overall probability of seeing a Type I error is much larger than for each hypothesis separately. This is called the problem of multiple testing. Look up online what to do to compensate for this issue.\nMake sure to write one or more functions to avoid rewriting too much code. You should not need to copy-paste all of your code for each hypothesis test.\nYou are free show your hypothesis test results using a visualization, and/or a nicely-formatted table.\n\n\n\nModel fitting (30% of the default project grade)\nPerform (1) a linear regression analysis of the response (n_days) on the explanatory variables, and (2) a logistic regression analysis of a binary outcome that you will construct based on n_days.\n\nIn your submission, describe whether and how you transformed your data or covariates to fit your models, or excluded any observations, and why.\nYou should use cross-validation to select the best performing hyperparameters. You are free to choose any error metric to validate on, as long as you motivate your choice. For example, you might choose RMSPE, TPR, TNR, or another metric that you think is most appropriate, given the dataset and your assumptions about the scenario.\nBased on your models, what conclusion can you draw about the effect of the drug D-penicillamine on patient survival? Does the effect appear to differ across groups? Be sure to draw on the tools of inference in your answer.\nHint The model choices you made contain parameters. What is the meaning of these parameters? Which hypotheses or estimates would express/measure the effect of the drug on the outcome?",
     "crumbs": [
       "Project"
     ]
   },
   {
-    "objectID": "project.html#description-of-the-custom-project",
-    "href": "project.html#description-of-the-custom-project",
-    "title": "Final project - THIS INFORMATION IS NOT UP TO DATE FOR SPRING 2026",
-    "section": "Description of the custom project",
-    "text": "Description of the custom project\nA custom project provides hands-on experience with key steps of the data science pipeline:\n\nAsking research questions\nIdentifying or creating dataset(s) to help you answer your questions\nCleaning, exploring, and analyzing datasets using tools from 131A and beyond\nSynthesizing and compiling your results in a short report\nPresenting your results to an audience\n\nYou are free to pursue any topic related to applied statistics.\n\nIn previous years, project teams have considered athletic performance, gender inequality, farming practices, restaurant quality, music success, gentrification, and standardized testing, just to name a few. Any data-driven investigation is fair game.\nYou can some examples of successful final projects here. Note that these projects are from a different class and have a different format, but the spirit is the same.\n\nEach custom project team of 3 students will prepare a 3-page memo containing 3-5 visualizations and text that summarizes their key findings, and record a lightning talk of approximately 5-7 minutes to be reviewed by a member of the teaching staff.\n\nYour memo should not contain any code. It should contain only text and visualizations.\n\n\nImportant note: Suppose you spend 20 total hours on your project. As it turns out, 5 of those 20 hours were spent cleaning a dataset. Even though cleaning the dataset took 25% of your time, you probably should not devote 25% of your memo and presentation to describing the data cleaning process. Your memo and presentation should highlight the key takeaways of your analysis.\n\nCustom project teams of 1 or 2 students will only be approved in exceptional circumstances (e.g., proprietary research data that can only be viewed by one or two students).\n\nTeams of 4 or more students will not be approved, so please do not ask for an exception!\n\nAlong the way, each custom project team will receive feedback from the course staff as part of two mandatory sub-components:\n\n15-minute project meeting with the course staff\nHW6 check-in submission\n\n\nCustom project grading\nThe custom project is intentionally open-ended and graded holistically.\n\nGiven the unique challenges faced by each team, there isn’t a one-size-fits-all rubric. Some teams will spend more time collecting complex data and have simpler analyses, while others will pursue more complex analyses of data that have already been cleaned.\nAs long as there’s evidence that your team has spent time sufficiently collecting, cleaning, exploring, and analyzing your data, and has taken into consideration feedback from the course staff, you should receive high marks.\nIf you have concerns about the specific directions of your project, please see a member of the teaching staff during office hours. We’re happy to lead you in the right direction!\n\nOnly one team member needs to submit the project via Gradescope. Please add all team members to your submission group.\n\n\nCustom project FAQs\nWe may update this section with new questions from Ed and office hours. If you do not see your question answered below, be sure to ask!\n\nCan the memo be longer than 3 pages?\nYou’re welcome to include an appendix of additional relevant results, but we can’t guarantee that the teaching team will review anything beyond 3 pages. Please make sure not to just dump all of your extraneous findings and plots in an appendix unless there is a good reason to include them. While research papers often have just 3-5 main plots, authors will often produce hundreds of plots over the course of a project that the public never sees.\n\n\nCan presentations be longer than 7 minutes?\nNo. The member of the teaching staff reviewing your presentation will stop watching at 7 minutes. Practice your presentation several times to ensure that you stay within the time limit.\n\n\nHow should I record the presentation?\nYou should record yourself in front of a large screen (e.g., a flat screen TV in a conference room) with your slides/plots/diagrams visible in the same frame as your face. Do not read off of a script, do not present via screen share, and do not keep your camera off. In other words, treat the presentation as though you are presenting to work colleagues live and in-person.\nYour key plots should be the main attraction of your presentation. All plot elements should be clearly visible. You are welcome to include additional information aside from just your plots. Slides with a lot of text should be avoided.\nEach team member should present in front of the same screen. If it impossible for you to coordinate with your team members to be in the same location at the same time to record the presentation, please let the teaching staff know ahead of time. In these cases, you should each present separately in front of different screens and splice together your videos.\nIf you are unable to access a space on or off campus with a large screen, or there is something else preventing you from presenting in the format described above, please get in touch with the course staff about finding an alternative solution.\n\n\nCan reports be double spaced?\nNo. The report should be single-spaced with a reasonably sized font and standard margins. Keep in mind that your 3-5 figures will take up a lot of space in your memo, and thoughtfully-designed plots+captions are arguably more important than the main text.\n\n\nCan we collect our own data?\nYes! Many past students have used surveys to answer their research questions.\nIf you plan to create a survey, be sure to receive approval of your survey from the course staff before publishing it. You’ll also want to publish your survey well before the project deadline.\nEffective survey design can take much longer than expected, so it’s not a good option for a last-minute project!\n\n\nDo we have to use R for our analysis?\nIn general, yes. However, if you’re using a technique that goes beyond the techniques taught in this course, like web scraping, you are free to use another language like Python.\n\n\nCan I use data from another class or research project?\nAbsolutely! Of course, don’t just turn in the same project that you’ve turned in for another class. That’s a recipe for disaster. But, we are fine with double- or triple-dipping topics across your classes. It’s never bad practice to dig deeper into one dataset or topic.\n\n\nIs there a rough outline of what you’re looking for in the memo and presentation?\nAs mentioned above, the project is intentionally open-ended and doesn’t have a fixed rubric. That being said, here is a sample outline that has worked for many projects in the past. Keep in mind that your outline may differ!\nIntroduction and motivation\n\nWhat is/are your research question(s)?\nWhy is each question interesting?\nWhat’s your hypothesis?\nWhat’s the brief summary of your results?\n\nRelevant work\n\nWho else has tried to answer your question(s)?\nWere they successful?\nHow does your project relate to or build on existing work?\n\n\nData and methods\n\nHow will you go about answering your research question(s)?\nWhat data sources will you use?\nWhat methods will you use, and how will they answer your research question(s)?\nFor most groups, the ideal methods will be extensive exploratory data analysis, followed by linear and/or a logistic regression(s). If this is the case for your project, you would use this section to explain how your plots and regression(s) will answer your research questions.\n\nResults and discussion\n\nWhat are your findings?\nHow do you interpret those findings?\nThis will probably be your longest section, so spend the most time here.\nYou shouldn’t have more than 3-5 total plots+figures in your memo. The presentation should also include no more than 3-5 plots. Only include plots if they are critically relevant to your story.\nSpend sufficient time making your plots pretty! With tools like ChatGPT, it’s a lot easier to figure out how to clean up plots. Aim to make your plots as clean as a plot you might see in a professional news outlet. You’re welcome to discuss potential improvements to your plots during office hours.\n\nConclusion\n\nTo what extent did you answer your research question?\nWas your hypothesis correct?\nWith infinite time and resources, how would you go about better answering your research question(s)?",
-    "crumbs": [
-      "Project"
-    ]
-  },
-  {
-    "objectID": "assignment4.html",
-    "href": "assignment4.html",
-    "title": "📝 HW4",
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
     "section": "",
-    "text": "Due date: Monday, November 4 at midnight.\n⏳ We recommend reading through each problem ASAP so you can accurately estimate the time needed to complete the assignment.\nUnless otherwise stated, assignments in STAT 131A are to be done individually.\nSome components of this assignment have not been seen by a previous cohort of STAT 131A students, so there may be some unforeseen hiccups."
+    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
   },
   {
-    "objectID": "assignment4.html#submission",
-    "href": "assignment4.html#submission",
-    "title": "📝 HW4",
-    "section": "📮 Submission",
-    "text": "📮 Submission\nSubmit your assignment via Gradescope. The Gradescope will be live at least a few days before the HW deadline.\n\nMake sure to tag your answers properly on Gradescope, or else you may be docked points for making the grading process more time-consuming.\n\nYou must submit a PDF of any PingPong chats that include code you used in your submission.\n\nThis should take the form of one long PDF. One way to do this is to copy all of your relevant PingPong chats into a Google Doc, and then print the doc as a PDF.\nYou are responsible for understanding all the code you submit, regardless of whether or not you used PingPong for help.\n\nFor the coding component, you will produce both (1) a .Rmd file with your code and (2) an PDF file containing the code and output.\n\nOn Gradescope, you will submit a single ZIP file containing both the .Rmd and PDF files.\nTo generate a PDF of your code and output, do not knit to PDF. Instead, knit your .Rmd file as HTML, open the HTML file in a web browser, and then print the HTML as a PDF, making sure that none of your code or output is cut off. You can generate an HTML file in RStudio by pressing Knit and then Knit to HTML.\nThe knitting process will not work if there are errors in your code, so be sure to leave plenty of time to knit your lab notebooks before the deadline.\nProofread your PDF to make sure all of your answers and plots are visible. If your PDF file is really long, it is possible that your code is printing out a large dataset or a really long vector. Make sure to comment out any code that prints more information than each question asks you for."
+    "objectID": "data.html#data-1",
+    "href": "data.html#data-1",
+    "title": "Data",
+    "section": "Data 1",
+    "text": "Data 1"
   },
   {
-    "objectID": "assignment4.html#forms-to-complete-0-of-the-hw2-grade",
-    "href": "assignment4.html#forms-to-complete-0-of-the-hw2-grade",
-    "title": "📝 HW4",
-    "section": "📝 Forms to complete (0% of the HW2 grade)",
-    "text": "📝 Forms to complete (0% of the HW2 grade)\nIf you have not already, complete the follow-up anonymous course pulse check.\n\nTo make sure everyone’s opinion is represented in any subsequent changes to the course, is critical to get 100% participation on this survey.\nAs the saying goes, “The squeaky wheel gets the grease.”"
+    "objectID": "data.html#data-2",
+    "href": "data.html#data-2",
+    "title": "Data",
+    "section": "Data 2",
+    "text": "Data 2"
   },
   {
-    "objectID": "assignment4.html#inference-and-prediction-with-multiple-regression-in-r-100-of-the-hw4-grade",
-    "href": "assignment4.html#inference-and-prediction-with-multiple-regression-in-r-100-of-the-hw4-grade",
-    "title": "📝 HW4",
-    "section": "🔮 Inference and prediction with multiple regression in R (100% of the HW4 grade)",
-    "text": "🔮 Inference and prediction with multiple regression in R (100% of the HW4 grade)\nDataHub\n\nThe HW4 coding problems are located in 131a-labs-fall-2024 directory.\n\nGitHub"
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Due dates",
+    "section": "",
+    "text": "DataHub\nGitHub\nDue date: Sunday, February 8, 11:59PM PST",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-1",
+    "href": "assignments.html#lab-1",
+    "title": "Due dates",
+    "section": "",
+    "text": "DataHub\nGitHub\nDue date: Sunday, February 8, 11:59PM PST",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw1",
+    "href": "assignments.html#hw1",
+    "title": "Due dates",
+    "section": "📊 HW1",
+    "text": "📊 HW1\nHW 1 details\nDue date: Tuesday, February 17, 11:59PM PST",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-2",
+    "href": "assignments.html#lab-2",
+    "title": "Due dates",
+    "section": "🔔 Lab 2",
+    "text": "🔔 Lab 2\nDataHub\nGitHub\nDue date: Thursday, February 12, 11:59PM PST",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-3",
+    "href": "assignments.html#lab-3",
+    "title": "Due dates",
+    "section": "👨‍🚀 Lab 3",
+    "text": "👨‍🚀 Lab 3\nDataHub\nGitHub\nDue date: Sunday, February 22, 11:59PM PST",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-4-part-a-and-part-b",
+    "href": "assignments.html#lab-4-part-a-and-part-b",
+    "title": "Due dates",
+    "section": "🩸 Lab 4 (Part A and Part B)",
+    "text": "🩸 Lab 4 (Part A and Part B)\nDataHub (Part A and B)\nGitHub (Part A and B)\nDue date: Moday, March 2, 11:59PM PST",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-5",
+    "href": "assignments.html#lab-5",
+    "title": "Due dates",
+    "section": "🥾 Lab 5",
+    "text": "🥾 Lab 5\nLab 5 (DataHub)\nLab 5 (GitHub)\nDue date: Monday, March 9, 11:59PM PDT",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw2",
+    "href": "assignments.html#hw2",
+    "title": "Due dates",
+    "section": "🍬 HW2",
+    "text": "🍬 HW2\nHW 2 details\nDue date: Tuesday, March 17, 11:59PM PDT",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#midterm",
+    "href": "assignments.html#midterm",
+    "title": "Due dates",
+    "section": "📝 Midterm",
+    "text": "📝 Midterm\nWednesday, March 18, 11AM-12noon PDT during class.",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-7",
+    "href": "assignments.html#lab-7",
+    "title": "Due dates",
+    "section": "🚘 Lab 7",
+    "text": "🚘 Lab 7\nLab 7 (DataHub)\nLab 7 (GitHub)\nDue date: Sunday, April 5th, 11:59PM PDT",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-8",
+    "href": "assignments.html#lab-8",
+    "title": "Due dates",
+    "section": "🚘 Lab 8",
+    "text": "🚘 Lab 8\nLab 8 (DataHub)\nLab 8 (GitHub)\nDue date: Sunday, April 12th, 11:59PM PDT",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#hw3",
+    "href": "assignments.html#hw3",
+    "title": "Due dates",
+    "section": "🧪 HW3",
+    "text": "🧪 HW3\nHW 3 details\nDue date: Sunday, April 19, 11:59PM PDT",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-9",
+    "href": "assignments.html#lab-9",
+    "title": "Due dates",
+    "section": "📈 Lab 9",
+    "text": "📈 Lab 9\nLab 9 (DataHub)\nLab 9 (GitHub)\nDue date: Sunday, April 19, 11:59PM",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#lab-10",
+    "href": "assignments.html#lab-10",
+    "title": "Due dates",
+    "section": "🎯 Lab 10",
+    "text": "🎯 Lab 10\nLab 10 (DataHub)\nLab 10 (GitHub)\nDue date: Sunday, April 26, 11:59PM",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#final-project",
+    "href": "assignments.html#final-project",
+    "title": "Due dates",
+    "section": "🏁 Final project",
+    "text": "🏁 Final project\nProject details\nDue date: Sunday, May 10, 11:59PM",
+    "crumbs": [
+      "HW and Labs"
+    ]
+  },
+  {
+    "objectID": "assignments.html#final-exam",
+    "href": "assignments.html#final-exam",
+    "title": "Due dates",
+    "section": "🏁 Final exam",
+    "text": "🏁 Final exam\nTuesday, May 12",
+    "crumbs": [
+      "HW and Labs"
+    ]
   },
   {
     "objectID": "assignment6.html",
