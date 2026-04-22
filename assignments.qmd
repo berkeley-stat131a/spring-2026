@@ -71,7 +71,7 @@ Wednesday, March 18, 11AM-12noon PDT during class.
 [Lab 7 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
 
 
-Due date: Sunday, April 12th, 11:59PM PDT
+Due date: Sunday, April 5th, 11:59PM PDT
 
 ## 🚘 Lab 8
 
@@ -79,7 +79,7 @@ Due date: Sunday, April 12th, 11:59PM PDT
 
 [Lab 8 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
 
-Due date: Sunday, April 19th, 11:59PM PDT
+Due date: Sunday, April 12th, 11:59PM PDT
 
 
 ## 🧪 HW3 
@@ -95,29 +95,32 @@ Due date: Sunday, April 19, 11:59PM PDT
 [HW 4 details](assignment4.html)
 
 Due date: Monday, November 4, midnight PT
+-->
 
 ## 📈 Lab 9
 
-[Lab 9 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+[Lab 9 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
 
-[Lab 9 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+[Lab 9 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
 
-Due date: Friday, November 8, midnight PT
+Due date: Sunday, April 19, 11:59PM
 
+<!--
 **Note: Lab 8 is also due on 11/8. See above.**
 
 ##  📝 Midterm 2
 
 Wednesday, November 13, 2-3pm in Morgan 101
-
+-->
 ## 🎯 Lab 10
 
-[Lab 10 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-fall-2024&urlpath=rstudio%2F)
+[Lab 10 (DataHub)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-stat131a%2F131a-labs-spring-2026&urlpath=rstudio%2F)
 
-[Lab 10 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-fall-2024/tree/main)
+[Lab 10 (GitHub)](https://github.com/berkeley-stat131a/131a-labs-spring-2026/tree/main)
 
-Anticipated due date: Friday, November 22, midnight PT
+Due date: Sunday, April 26, 11:59PM
 
+<!--
 ## 🫀 HW5
 
 [HW 5 details](assignment5.html)
@@ -138,16 +141,17 @@ Anticipated due date: Friday, December 6, midnight PT
 
 Anticipated due date: Monday, December 9, midnight PT
 
+-->
+
 ## 🏁 Final project
 
 [Project details](project.html)
 
-Anticipated due date: Sunday, December 15, midnight PT
+Due date: Sunday, May 10, 11:59PM
 
 ## 🏁 Final exam
 
-Thursday, December 19, 3-6pm \@ GPBB 100 
-
+Tuesday, May 12 <!--, 3-6pm \@ GPBB 100 
 -->
 
 <!-- In teams of 3 people (no more, no fewer), please complete the [project proposal form](https://docs.google.com/forms/d/e/1FAIpQLSeYSFHSlrRKkcjCCo9PAGrtiWoWRQEQHGBsJsosEZfZ9ebocA/viewform?usp=sf_link). -->
